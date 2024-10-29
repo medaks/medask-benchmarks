@@ -33,17 +33,19 @@ main.py: error: the following arguments are required: --file
 
 #### Running a complex example.
 
-##### Starting the script.
+##### Starting the script...
 ```
 # Run the benchmark on 3 random vignettes from Avey. Repeat the experiment 2 times.
 # Use gpt-4o for the LLM simulating the doctor.
 # By default, gpt-4o-mini is used for the LLM simulating the patient.
 # By default, gpt-4o is used to evaluate the correctnes of the resulting diagnoses.
-python medask/tools/benchmark/main.py --file=avey --doctor_llm=gpt-4o  --num_vignettes=3 --num_experiments=2
 
-# Output
+python medask/tools/benchmark/main.py --file=avey --doctor_llm=gpt-4o  --num_vignettes=3 --num_experiments=2
+```
+
+##### ... generates the following output.
+```
 2024-10-28 21:52:59,084 - [INFO] - benchmark - Running experiment over vignettes [145, 193, 263]
-...
 2024-10-28 21:53:24,619 - [INFO] - benchmark - Dumping results to medask/tools/benchmark/results/2024-10-28T21:52:59_gpt-4o_3.json
 
 positions=[-1, 1, 1]	Colonic Polyps	: [Colorectal polyps, Colorectal cancer, Diverticular disease]
@@ -66,14 +68,16 @@ positions=[2, 2, 2]	Unstable Angina	: [Angina pectoris, Unstable angina, Myocard
    Average position of correct diagnosis: 2.5
 ```
 
-##### Understanding the output
+##### Understanding the output.
 ```
 # You can see the indices of the vignettes that are used in the experiment.
+
 2024-10-28 21:52:59,084 - [INFO] - benchmark - Running experiment over vignettes [145, 193, 263]
 ```
 
 ```
 # All the data about the experiment is saved to disk, in this case to  medask/tools/benchmark/results/2024-10-28T21:52:59_gpt-4o_3.json
+
 2024-10-28 21:53:24,619 - [INFO] - benchmark - Dumping results to medask/tools/benchmark/results/2024-10-28T21:52:59_gpt-4o_3.json
 ```
 
@@ -86,6 +90,7 @@ positions=[2, 2, 2]	Unstable Angina	: [Angina pectoris, Unstable angina, Myocard
 #        In the first run, the evaluator thought none of the 3 given diagnoses is close enough to the correct one, hence -1.
 #        In the second run, the evaluator thought the first diagnosis (Colorectal polyps) is close enough to the correct one, hence 1.
 #        In the third run, the evaluator thought the first diagnosis (Colorectal polyps) is close enough to the correct one, hence 1.
+
 positions=[-1, 1, 1]	Colonic Polyps	: [Colorectal polyps, Colorectal cancer, Diverticular disease]
 ```
 
@@ -95,6 +100,7 @@ positions=[-1, 1, 1]	Colonic Polyps	: [Colorectal polyps, Colorectal cancer, Div
 #  * For the second diagnosis, the evaluator thought that all diagnoses were incorrect, hence -111.
 #  * For the third diagnosis, the evaluator thought that the first diagnosis is the correct one, hence 1.
 # Overall, thus 2 / 3 diagnoses were correct, and the average position of the correct diagnoses is (1.0 + 1.0) / 2 = 1.0
+
 2024-10-28 21:53:27,234 - [INFO] - benchmark.evaluate - Results of run i=0
    positions=[1.0, -111, 1.0]
    Number of correct diagnoses: 2 / 3
