@@ -1,2 +1,3 @@
 __pycache__/
 medask/tools/benchmark/results/
+**.DS_Store
