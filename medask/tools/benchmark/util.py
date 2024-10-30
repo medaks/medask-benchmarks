@@ -13,9 +13,9 @@ LLMClient = TypeVar("LLMClient", UmmonOpenAI, UmmonAnthropic, UmmonMistral)
 
 def model_to_client(model: str) -> LLMClient:  # type: ignore
     if model == "medask-local":
-        return RuntimeError("not yet public")
+        raise RuntimeError("not yet public")
     elif model == "medask":
-        return RuntimeError("not yet public")
+        raise RuntimeError("not yet public")
     elif "gpt" in model:
         return UmmonOpenAI(model)
     elif "claude" in model:
