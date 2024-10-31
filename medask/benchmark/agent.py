@@ -1,7 +1,7 @@
 from typing import TYPE_CHECKING
 
 if TYPE_CHECKING:
-    from medask.tools.benchmark.vignette import Vignette
+    from medask.benchmark.vignette import Vignette
 
 
 class Patient:

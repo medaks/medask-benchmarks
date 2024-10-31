@@ -7,7 +7,7 @@ from pydantic import BaseModel
 
 from medask.models.comms.models import CChat
 
-from medask.tools.benchmark.vignette import (
+from medask.benchmark.vignette import (
     AveyVignette,
     AgentClinicVignette,
     Vignette,

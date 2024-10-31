@@ -6,10 +6,10 @@ from medask.models.orm.models import Role
 from medask.ummon.openai import UmmonOpenAI
 from medask.util.concurrency import exec_concurrently
 
-from medask.tools.benchmark.simulator import NaiveSimulator
+from medask.benchmark.simulator import NaiveSimulator
 
 if TYPE_CHECKING:
-    from medask.tools.benchmark.experiment_result import ExperimentResult
+    from medask.benchmark.experiment_result import ExperimentResult
 
 logger = getLogger("benchmark.evaluate")
 _ummon_openai = UmmonOpenAI("gpt-4o")

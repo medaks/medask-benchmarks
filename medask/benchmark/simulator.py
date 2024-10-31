@@ -8,9 +8,9 @@ from medask.util.decorator import timeit
 from medask.util.gen_cmsg import gen_cmsg
 from medask.util.marshal import marshal
 
-from medask.tools.benchmark.agent import Doctor, Patient
-from medask.tools.benchmark.util import LLMClient
-from medask.tools.benchmark.vignette import Vignette
+from medask.benchmark.agent import Doctor, Patient
+from medask.benchmark.util import LLMClient
+from medask.benchmark.vignette import Vignette
 
 logger = getLogger("benchmark.simulator")
 

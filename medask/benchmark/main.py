@@ -10,11 +10,11 @@ from medask.util.concurrency import exec_concurrently
 from medask.util.decorator import timeit
 from medask.util.log import get_logger
 
-from medask.tools.benchmark.evaluate import evaluate
-from medask.tools.benchmark.experiment_result import ExperimentResult
-from medask.tools.benchmark.simulator import LocalSimulator, NaiveSimulator
-from medask.tools.benchmark.util import LLMClient, model_to_client
-from medask.tools.benchmark.vignette import (
+from medask.benchmark.evaluate import evaluate
+from medask.benchmark.experiment_result import ExperimentResult
+from medask.benchmark.simulator import LocalSimulator, NaiveSimulator
+from medask.benchmark.util import LLMClient, model_to_client
+from medask.benchmark.vignette import (
     Vignette,
     load_vignettes,
 )
