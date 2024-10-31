@@ -19,6 +19,8 @@ class Patient:
             A doctor will ask you questions to diagnose your condition. Provide concise
             answers of 1-3 sentences, sharing only the relevant information based on your background.
             If the doctor asks about something not mentioned in the background, simply reply 'I don't know.'
+
+            Below is the dialogue history. Provide the patient's response.
         """
 
 
@@ -31,10 +33,12 @@ class Doctor:
             with the following characteristics
             DEMOGRAPHICS: {self._vignette.demographics}
 
-            .You will ask the patient concise questions (1-3 sentences at a time) in order
+            You will ask the patient concise questions (1-3 sentences at a time) in order
             to understand their disease. After gathering sufficient information, finish
             the conversation by writing chosen diagnoses in this format:
             DIAGNOSIS READY: [diagnosis1, diagnosis2, diagnosis3, diagnosis4, diagnosis5]
+
+            Below is the dialogue history. Provide the doctor's response.
         """
 
     def initial_prompt(self) -> str:
