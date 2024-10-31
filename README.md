@@ -12,7 +12,7 @@ pip install -r requirements/development.txt
 pip install -e .
 
 export KEY_OPENAI="sk-..." # Set your API key in an ENV variable.
-add folder named 'results' to benchmark folder.
+if missing, add folder named 'results' to benchmark folder.
 ```
 
 ### Usage
@@ -22,7 +22,7 @@ add folder named 'results' to benchmark folder.
 ##### Inspecting the available script options.
 ```
 # Run without any arguments to see all available options.
-python medask/tools/benchmark/main.py
+python medask/benchmark/main.py
 
 # Output
 usage: main.py [-h] [--doctor_llm DOCTOR_LLM] [--patient_llm PATIENT_LLM]
@@ -41,13 +41,13 @@ main.py: error: the following arguments are required: --file
 # By default, gpt-4o-mini is used for the LLM simulating the patient.
 # By default, gpt-4o is used to evaluate the correctnes of the resulting diagnoses.
 
-python medask/tools/benchmark/main.py --file=avey --doctor_llm=gpt-4o  --num_vignettes=3 --num_experiments=2
+python medask/benchmark/main.py --file=avey --doctor_llm=gpt-4o  --num_vignettes=3 --num_experiments=2
 ```
 
 ##### ... generates the following output.
 ```
 2024-10-28 21:52:59,084 - [INFO] - benchmark - Running experiment over vignettes [145, 193, 263]
-2024-10-28 21:53:24,619 - [INFO] - benchmark - Dumping results to medask/tools/benchmark/results/2024-10-28T21:52:59_gpt-4o_3.json
+2024-10-28 21:53:24,619 - [INFO] - benchmark - Dumping results to medask/benchmark/results/2024-10-28T21:52:59_gpt-4o_3.json
 
 positions=[-1, 1, 1]	Colonic Polyps	: [Colorectal polyps, Colorectal cancer, Diverticular disease]
 positions=[-1, -1, -1]	Pseudogout	: [Rheumatoid arthritis, Reactive arthritis, Polyarticular gout]
@@ -77,9 +77,9 @@ positions=[2, 2, 2]	Unstable Angina	: [Angina pectoris, Unstable angina, Myocard
 ```
 
 ```
-# All the data about the experiment is saved to disk, in this case to  medask/tools/benchmark/results/2024-10-28T21:52:59_gpt-4o_3.json
+# All the data about the experiment is saved to disk, in this case to  medask/benchmark/results/2024-10-28T21:52:59_gpt-4o_3.json
 
-2024-10-28 21:53:24,619 - [INFO] - benchmark - Dumping results to medask/tools/benchmark/results/2024-10-28T21:52:59_gpt-4o_3.json
+2024-10-28 21:53:24,619 - [INFO] - benchmark - Dumping results to medask/benchmark/results/2024-10-28T21:52:59_gpt-4o_3.json
 ```
 
 
