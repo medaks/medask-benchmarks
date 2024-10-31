@@ -9,7 +9,6 @@ from medask.models.comms.models import CChat
 
 from medask.benchmark.vignette import (
     AveyVignette,
-    AgentClinicVignette,
     Vignette,
 )
 
@@ -61,6 +60,6 @@ class ExperimentResult(BaseModel):
             for exp_ix in [k for k in raw["evaluation"]]:
                 evaluation = raw["evaluation"].pop(exp_ix)
                 raw["evaluation"][int(exp_ix)] = evaluation
-            cls = AveyVignette if raw["vignette_file"] == "avey" else AgentClinicVignette
+            cls = AveyVignette if raw["vignette_file"] == "avey" else None
             raw["vignettes"] = [cls(**d) for d in raw["vignettes"]]
         return ExperimentResult(**raw)

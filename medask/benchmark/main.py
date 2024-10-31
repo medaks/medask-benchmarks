@@ -20,7 +20,7 @@ from medask.benchmark.vignette import (
 )
 
 if TYPE_CHECKING:
-    from medask.tools.benchmark.simulator import Simulator
+    from medask.benchmark.simulator import Simulator
 
 logger = get_logger("benchmark")
 logging.getLogger("ummon.anthropic").setLevel(logging.WARNING)
@@ -77,9 +77,9 @@ def get_args() -> ArgumentParser:
     parser.add_argument(
         "--file",
         type=str,
-        choices=["avey", "agentclinic"],
+        choices=["avey"],
         required=True,
-        help="Specify 'avey' for AVEY_VIGNETTES or 'agentclinic' for AGENTCLINIC_VIGNETTES",
+        help="Specify 'avey' for AVEY_VIGNETTES (more vignettes choices to come later)",
     )
     parser.add_argument(
         "--num_vignettes", type=int, default=10, help="Number of vignettes used in the experiment."
