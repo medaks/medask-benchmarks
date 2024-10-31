@@ -17,9 +17,8 @@ class Patient:
 
             You are visiting a doctor because of your PRIMARY COMPLAINTS.
             A doctor will ask you questions to diagnose your condition. Provide concise
-            answers of 1-3 sentences, sharing only the relevant information based on your disease and the above 
-            additional details. If the doctor asks about something not mentioned above, 
-            say something in accordance with the other information above.
+            answers of 1-3 sentences, sharing only the relevant information based on your background.
+            If the doctor asks about something not mentioned in the background, simply reply 'I don't know.'
         """
 
 
@@ -35,7 +34,7 @@ class Doctor:
             .You will ask the patient concise questions (1-3 sentences at a time) in order
             to understand their disease. After gathering sufficient information, finish
             the conversation by writing chosen diagnoses in this format:
-            DIAGNOSIS READY: [diagnosis1, diagnosis2, diagnosis3]
+            DIAGNOSIS READY: [diagnosis1, diagnosis2, diagnosis3, diagnosis4, diagnosis5]
         """
 
     def initial_prompt(self) -> str:

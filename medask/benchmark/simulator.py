@@ -157,15 +157,15 @@ class LocalSimulator(NaiveSimulator):
         if len(self.chat_doctor.messages) < 15:
             m += (
                 "INSSS"
-                + f"""You are a doctor doing a differential diagnosis.  Below is the transcript of your current conversation with a patient with the following demographics: {self.doctor._vignette.demographics}
-                 Ask the patient a question to find out more about their condition so that you can better diagnose the patient. Never repeat questions.
+                + f"""Below is the transcript of your current conversation with the patient.
+                Ask the patient a question to find out more about their condition so that you can better diagnose the patient. Never repeat questions.
             """
             )
         else:
             m += (
                 "INSSS"
-                + """You are a doctor diagnosing a patient with the following demographics: {self.doctor._vignette.demographics}.  Below is the transcript of a differential diagnosis.  Based on the transcript, write 3 most likely diagnoses. Write 3 chosen diagnoses in this format:
-            DIAGNOSIS READY: [diagnosis1, diagnosis2, diagnosis3]
+                + """Below is the transcript of a differential diagnosis.  Based on the transcript, write 5 most likely diagnoses. Write 5 chosen diagnoses in this format:
+            DIAGNOSIS READY: [diagnosis1, diagnosis2, diagnosis3, diagnosis4, diagnosis5]
             """
             )
         cmsg = CMessage(user_id=1, role=Role.USER, body=m)
