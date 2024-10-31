@@ -1,4 +1,15 @@
-## A novel approach to evaluating AI agents on diagnostic accuracy in symptom checking tasks.
+# SymptomCheck Bench
+
+SymptomCheck Bench is an OSCE-style benchmark designed to evaluate the diagnostic accuracy of Large Language Model (LLM) based medical agents in symptom assessment conversations.
+
+The benchmark simulates medical consultations through a structured four-step process:
+1. Initialization: Selection of a clinical vignette
+2. Dialogue: Simulated conversation between an LLM agent and patient
+3. Diagnosis: Generation of top 5 differential diagnoses
+4. Evaluation: Automated assessment of diagnostic accuracy
+
+For more details about the benchmark, methodology, and results, read our blog post:
+https://medask.tech/
 
 
 ### Installation
@@ -46,34 +57,33 @@ python medask/benchmark/main.py --file=avey --doctor_llm=gpt-4o  --num_vignettes
 
 ##### ... generates the following output.
 ```
-2024-10-28 21:52:59,084 - [INFO] - benchmark - Running experiment over vignettes [145, 193, 263]
+2024-10-28 21:52:59,084 - [INFO] - benchmark - Running experiment over vignettes [68, 166, 334]
 2024-10-28 21:53:24,619 - [INFO] - benchmark - Dumping results to medask/benchmark/results/2024-10-28T21:52:59_gpt-4o_3.json
 
-positions=[-1, 1, 1]	Colonic Polyps	: [Colorectal polyps, Colorectal cancer, Diverticular disease]
-positions=[-1, -1, -1]	Pseudogout	: [Rheumatoid arthritis, Reactive arthritis, Polyarticular gout]
-positions=[1, 1, 1]	Unstable Angina	: [Angina, Acute Coronary Syndrome, Myocardial Infarction]
+position=1      Nephrolithiasis : [Kidney stones, Ureteral obstruction, Urinary tract infection, Pyelonephritis, Renal colic]
+position=1      Measles : [Measles, Viral exanthem, Roseola, Rubella, Scarlet fever]
+position=1      Cerebral Stroke : [Ischemic stroke, Hemorrhagic stroke, Transient ischemic attack (TIA), Bell's palsy, Intracranial hemorrhage]
 
 2024-10-28 21:53:27,234 - [INFO] - benchmark.evaluate - Results of run i=0
-   positions=[1.0, -111, 1.0]
-   Number of correct diagnoses: 2 / 3
+   positions=[1.0, 1.0, 1.0]
+   Number of correct diagnoses: 3 / 3
    Average position of correct diagnosis: 1.0
 
-
-positions=[3, 3, 3]	Colonic Polyps	: [hemorrhoids, anal fissure, colorectal polyps]
-positions=[-1, -1, -1]	Pseudogout	: [Rheumatoid arthritis, Osteoarthritis, Gout]
-positions=[2, 2, 2]	Unstable Angina	: [Angina pectoris, Unstable angina, Myocardial infarction]
+position=1      Nephrolithiasis : [Kidney stones, Ureteral stones, Renal colic, Hematuria, Urinary tract obstruction]
+position=1      Measles : [Measles, Viral exanthem, Rubella, Scarlet fever, Roseola]
+position=1      Cerebral Stroke : [Acute Ischemic Stroke, Transient Ischemic Attack, Hemorrhagic Stroke, Bell's Palsy, Migraine with Aura]
 
 2024-10-28 21:53:30,660 - [INFO] - benchmark.evaluate - Results of run i=1
-   positions=[3.0, -111, 2.0]
-   Number of correct diagnoses: 2 / 3
-   Average position of correct diagnosis: 2.5
+   positions=[1.0, 1.0, 1.0]
+   Number of correct diagnoses: 3 / 3
+   Average position of correct diagnosis: 1.0
 ```
 
 ##### Understanding the output.
 ```
 # You can see the indices of the vignettes that are used in the experiment.
 
-2024-10-28 21:52:59,084 - [INFO] - benchmark - Running experiment over vignettes [145, 193, 263]
+2024-10-28 21:52:59,084 - [INFO] - benchmark - Running experiment over vignettes [68, 166, 334]
 ```
 
 ```
@@ -84,28 +94,27 @@ positions=[2, 2, 2]	Unstable Angina	: [Angina pectoris, Unstable angina, Myocard
 
 
 ```
+position=1      Nephrolithiasis : [Kidney stones, Ureteral obstruction, Urinary tract infection, Pyelonephritis, Renal colic]
+
 # This shows the evaluation of the first diagnosis of the first experiment run.
-#  * Colonic Polyps was the correct diagnosis.
-#  * [Colorectal polyps, Colorectal cancer, Diverticular disease] Are the 3 most likely diagnoses the doctor LLM decided upon
-#  * positions=[-1, 1, 1] Is the result of the evaluator LLM. We run it 3 times for each diagnosis prediction.
-#        In the first run, the evaluator thought none of the 3 given diagnoses is close enough to the correct one, hence -1.
-#        In the second run, the evaluator thought the first diagnosis (Colorectal polyps) is close enough to the correct one, hence 1.
-#        In the third run, the evaluator thought the first diagnosis (Colorectal polyps) is close enough to the correct one, hence 1.
+#  * Nephrolithiasis (Kidney stones) was the correct diagnosis.
+#  * [Kidney stones, Ureteral obstruction, Urinary tract infection, Pyelonephritis, Renal colic] Are the 5 most likely diagnoses the symptom #    checker agent decided upon
+#  * position=1 Is the result of the evaluator LLM. It decided the correct diagnosis was found in position 1 in the differential diagnosis #    list
 
-positions=[-1, 1, 1]	Colonic Polyps	: [Colorectal polyps, Colorectal cancer, Diverticular disease]
 ```
 
 ```
-# This shows the aggregated results of the first experiment run:
-#  * For the first diagnosis, the evaluator thought that the first diagnosis is the correct one, hence 1.
-#  * For the second diagnosis, the evaluator thought that all diagnoses were incorrect, hence -111.
-#  * For the third diagnosis, the evaluator thought that the first diagnosis is the correct one, hence 1.
-# Overall, thus 2 / 3 diagnoses were correct, and the average position of the correct diagnoses is (1.0 + 1.0) / 2 = 1.0
-
 2024-10-28 21:53:27,234 - [INFO] - benchmark.evaluate - Results of run i=0
-   positions=[1.0, -111, 1.0]
-   Number of correct diagnoses: 2 / 3
+   positions=[1.0, 1.0, 1.0]
+   Number of correct diagnoses: 3 / 3
    Average position of correct diagnosis: 1.0
+
+# This shows the aggregated results of the first experiment run:
+#  * For the first vignette, the evaluator thought that the first diagnosis is the correct one, hence 1.
+#  * For the second vignette, the evaluator thought that the first diagnosis is the correct one, hence 1.
+#  * For the third vignette, the evaluator thought that the first diagnosis is the correct one, hence 1.
+# Overall, thus 3 / 3 diagnoses were correct, and the average position of the correct diagnoses is (1.0 + 1.0 + 1.0) / 3 = 1.0
+
 ```
 
 ### Inspect the results of a benchmark run.
