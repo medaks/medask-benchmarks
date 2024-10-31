@@ -42,35 +42,7 @@ class Vignette(BaseModel):
         """Any additional information about the patient or their disease."""
         pass
 
-
-class AgentClinicVignette(Vignette):
-    @property
-    def correct_diagnosis(self) -> str:
-        return self.data["correct_diagnosis"]
-
-    @property
-    def demographics(self) -> str:
-        return self.data["demographics"]
-
-    @property
-    def current_history(self) -> str:
-        return self.data.get("history", "No history")
-
-    @property
-    def primary_complaints(self) -> str:
-        return self.data.get("primary_symptom", "No primary simptoms")
-
-    @property
-    def additional_information(self) -> str:
-        return f"""
-            SECONDARY SYMPTOMS: {str(self.data.get("secondary_symptoms", ""))}
-            TEMPERATURE: {self.data.get("temperature", "")}
-            PAST MEDICAL HISTORY: {self.data.get("past_medical_history", "")}
-            SOCIAL HISTORY: {self.data.get("social_history", "")}
-            REVIEW OF SYSTEMS: {self.data.get("review_of_systems", "")}
-        """
-
-
+# Currently avey is the only choice for vignettes, but more vignette choices are planned to be added in the future.
 class AveyVignette(Vignette):
     @property
     def correct_diagnosis(self) -> str:
@@ -98,7 +70,7 @@ class AveyVignette(Vignette):
         """
 
 
-def load_vignettes(name: Literal["avey", "agentclinic"]) -> List[Vignette]:
+def load_vignettes(name: Literal["avey"]) -> List[Vignette]:
     directory = os.path.dirname(os.path.abspath(__file__))
 
     file_path = f"{directory}/vignettes/{name}_vignettes.jsonl"
@@ -108,4 +80,4 @@ def load_vignettes(name: Literal["avey", "agentclinic"]) -> List[Vignette]:
     if name == "avey":
         return [AveyVignette(data=d) for d in dicts]
     else:
-        return [AgentClinicVignette(data=d) for d in dicts]
+        return None

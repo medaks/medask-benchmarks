@@ -10,17 +10,17 @@ from medask.util.concurrency import exec_concurrently
 from medask.util.decorator import timeit
 from medask.util.log import get_logger
 
-from medask.tools.benchmark.evaluate import evaluate
-from medask.tools.benchmark.experiment_result import ExperimentResult
-from medask.tools.benchmark.simulator import LocalSimulator, NaiveSimulator
-from medask.tools.benchmark.util import LLMClient, model_to_client
-from medask.tools.benchmark.vignette import (
+from medask.benchmark.evaluate import evaluate
+from medask.benchmark.experiment_result import ExperimentResult
+from medask.benchmark.simulator import LocalSimulator, NaiveSimulator
+from medask.benchmark.util import LLMClient, model_to_client
+from medask.benchmark.vignette import (
     Vignette,
     load_vignettes,
 )
 
 if TYPE_CHECKING:
-    from medask.tools.benchmark.simulator import Simulator
+    from medask.benchmark.simulator import Simulator
 
 logger = get_logger("benchmark")
 logging.getLogger("ummon.anthropic").setLevel(logging.WARNING)
@@ -77,9 +77,9 @@ def get_args() -> ArgumentParser:
     parser.add_argument(
         "--file",
         type=str,
-        choices=["avey", "agentclinic"],
+        choices=["avey"],
         required=True,
-        help="Specify 'avey' for AVEY_VIGNETTES or 'agentclinic' for AGENTCLINIC_VIGNETTES",
+        help="Specify 'avey' for AVEY_VIGNETTES (more vignettes choices to come later)",
     )
     parser.add_argument(
         "--num_vignettes", type=int, default=10, help="Number of vignettes used in the experiment."
