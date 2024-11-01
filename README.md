@@ -23,7 +23,6 @@ pip install -r requirements/development.txt
 pip install -e .
 
 export KEY_OPENAI="sk-..." # Set your API key in an ENV variable.
-if missing, add folder named 'results' to benchmark folder.
 ```
 
 ### Usage
