@@ -1,4 +1,4 @@
 __pycache__/
-medask/benchmark/results/
+medask/benchmark/results/*json
 *.egg-info
 **.DS_Store
