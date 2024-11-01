@@ -1,5 +1,8 @@
 # SymptomCheck Bench
 
+
+## Read more about this benchmark [on our blog](https://medask.tech/blogs/introducing-symptomcheck-bench).
+
 SymptomCheck Bench is an OSCE-style benchmark designed to evaluate the diagnostic accuracy of Large Language Model (LLM) based medical agents in symptom assessment conversations.
 
 The benchmark simulates medical consultations through a structured four-step process:
