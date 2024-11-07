@@ -49,7 +49,7 @@ main.py: error: the following arguments are required: --file
 # Run the benchmark on 3 random vignettes from Avey. Repeat the experiment 2 times.
 # Use gpt-4o for the LLM simulating the doctor.
 # By default, gpt-4o-mini is used for the LLM simulating the patient.
-# By default, gpt-4o is used to evaluate the correctnes of the resulting diagnoses.
+# By default, gpt-4o is used to evaluate the correctness of the resulting diagnoses.
 
 python medask/benchmark/main.py --file=avey --doctor_llm=gpt-4o  --num_vignettes=3 --num_experiments=2
 ```
