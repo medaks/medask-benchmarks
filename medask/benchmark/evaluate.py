@@ -15,9 +15,14 @@ _ummon_openai = UmmonOpenAI("gpt-4o")
 
 
 def _get_score(obtained_diagnoses: str, correct_diagnosis: str) -> int:
-    body = f"""Given a list of differential diagnoses and the correct diagnosis, determine if
-        any of the diagnoses in the list are either an exact match, or very close, but not an exact match to the correct diagnosis.
-        
+    body = f"""Given a list of differential diagnoses and the correct diagnosis. Determine if any diagnosis in the list is either
+        an exact match or extremely relevant to the correct diagnosis.     A diagnosis is considered extremely relevant if it is:
+        1. A direct subtype/variant of the condition (e.g., "Alzheimer's Disease" matches "Dementia")
+        2. A broader category that includes the condition (e.g., "Head Injury" matches "Concussion")
+        3. A temporal variation (e.g., "Acute Bronchitis" matches "Chronic Bronchitis")
+        4. A closely related condition with shared pathophysiology and clinical presentation (e.g., "Gout" matches "Pseudogout")
+        5. A condition with established pathophysiological link (e.g., "Chronic Sinusitis" matches "Nasal Polyps")
+            
         If any diagnosis meets these criteria, specify its position, starting from 1.
         If none of the diagnoses meet these criteria, write -1.
         Respond in the following format: Correct diagnosis position: [number]
@@ -29,7 +34,9 @@ def _get_score(obtained_diagnoses: str, correct_diagnosis: str) -> int:
     out = _ummon_openai.inquire(cmsg).body
     try:
         # Extract just the number from "Correct diagnosis position: [number]"
-        position = int(out.split("position:")[1].strip())
+        position_part = out.split("Position:")[1].strip()
+        position_str = position_part.replace('[', '').replace(']', '').strip()
+        position = int(position_str)
         return position
     except Exception:
         logger.exception(f"FAILED: {obtained_diagnoses=} {correct_diagnosis=} {out=}")
