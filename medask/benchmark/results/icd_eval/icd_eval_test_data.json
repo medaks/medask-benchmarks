@@ -1,0 +1,4500 @@
+{
+  "5780": {
+    "Lactose Intolerance": {
+      "old": "E73.9",
+      "new": "E73.9"
+    },
+    "Irritable Bowel Syndrome": {
+      "old": "K58.9",
+      "new": "K58.9"
+    },
+    "Functional Bloating": {
+      "old": "R14",
+      "new": "K59.8"
+    }
+  },
+  "5777": {
+    "Lifelong Premature Ejaculation": {
+      "old": "F52.4",
+      "new": "F52.4"
+    },
+    "Acquired Premature Ejaculation": {
+      "old": "F52.4",
+      "new": "F52.4"
+    }
+  },
+  "5776": {
+    "Cold-Induced Bronchospasm": {
+      "old": "J45.1",
+      "new": "J45.1"
+    },
+    "Costochondritis": {
+      "old": "M94.0",
+      "new": "M94.0"
+    },
+    "Pleuritis": {
+      "old": "R09.1",
+      "new": "R09.1"
+    }
+  },
+  "5775": {
+    "Omphalitis": {
+      "old": "P38",
+      "new": "P38"
+    },
+    "Bellybutton Abscess": {
+      "old": "L02.3",
+      "new": "L02.3"
+    }
+  },
+  "5774": {
+    "Mechanical Low Back Pain": {
+      "old": "M54.5",
+      "new": "M54.5"
+    },
+    "Lumbar Muscle Strain": {
+      "old": "M62.66",
+      "new": "S33.7"
+    },
+    "Lumbar Disc Degeneration": {
+      "old": "M51.3",
+      "new": "M51.3"
+    }
+  },
+  "5772": {
+    "Muscle Strain": {
+      "old": "M62.60",
+      "new": "M62.69"
+    },
+    "Posture Related Back Pain": {
+      "old": "R29.3",
+      "new": "M54.5"
+    },
+    "Mild Intervertebral Disc Irritation": {
+      "old": "M51.9",
+      "new": "M51.8"
+    }
+  },
+  "5770": {
+    "Mechanical Lower Back Pain": {
+      "old": "M54.5",
+      "new": "M54.5"
+    },
+    "Muscle Strain In The Lower Back": {
+      "old": "M62.69",
+      "new": "M62.68"
+    },
+    "Postural Back Pain": {
+      "old": "R29.3",
+      "new": "M54.5"
+    }
+  },
+  "5769": {
+    "Ectopic Pregnancy": {
+      "old": "O00.9",
+      "new": "O00.9"
+    },
+    "Ovarian Torsion": {
+      "old": "N83.5",
+      "new": "N83.5"
+    }
+  },
+  "5767": {
+    "Hemolytic Uremic Syndrome": {
+      "old": "D59.3",
+      "new": "D59.3"
+    },
+    "Immune Thrombocytopenic Purpura": {
+      "old": "D69.3",
+      "new": "D69.3"
+    },
+    "Hereditary Spherocytosis": {
+      "old": "D58.0",
+      "new": "D58.0"
+    }
+  },
+  "5766": {
+    "Hemolytic Uremic Syndrome": {
+      "old": "D59.3",
+      "new": "D59.3"
+    },
+    "Glucose Six Phosphate Dehydrogenase Deficiency": {
+      "old": "D55.0",
+      "new": "D55.0"
+    },
+    "Autoimmune Hemolytic Anemia": {
+      "old": "D59.1",
+      "new": "D59.1"
+    }
+  },
+  "5765": {
+    "Muscle Strain": {
+      "old": "M62.60",
+      "new": "M62.68"
+    },
+    "Postural Strain": {
+      "old": "R29.3",
+      "new": "R29.3"
+    },
+    "Lumbar Spine Stiffness": {
+      "old": "M25.66",
+      "new": "M25.68"
+    }
+  },
+  "5750": {
+    "Myasthenia Gravis": {
+      "old": "G70.0",
+      "new": "G70.0"
+    },
+    "Amyotrophic Lateral Sclerosis": {
+      "old": "G12.21",
+      "new": "G12.2"
+    },
+    "Chronic Fatigue Syndrome": {
+      "old": "G93.3",
+      "new": "G93.3"
+    }
+  },
+  "5749": {
+    "Viral Infection": {
+      "old": "B97",
+      "new": "B34.9"
+    },
+    "Contact Dermatitis": {
+      "old": "L23",
+      "new": "L25.9"
+    },
+    "Sebaceous Cyst": {
+      "old": "L72.0",
+      "new": "L72.0"
+    }
+  },
+  "5748": {
+    "Heart Failure": {
+      "old": "I50",
+      "new": "I50.9"
+    },
+    "Anxiety Disorder": {
+      "old": "F41",
+      "new": "F41.9"
+    },
+    "Chronic Kidney Disease": {
+      "old": "N18",
+      "new": "N18.9"
+    }
+  },
+  "5747": {
+    "Stress-Induced Menstrual Irregularity": {
+      "old": "N94.6",
+      "new": "N92.6"
+    },
+    "Polycystic Ovary Syndrome": {
+      "old": "E28.2",
+      "new": "E28.2"
+    }
+  },
+  "5746": {
+    "Cervical Spondylosis": {
+      "old": "M47.9",
+      "new": "M47.12"
+    },
+    "Multiple Sclerosis": {
+      "old": "G35",
+      "new": "G35"
+    }
+  },
+  "5745": {
+    "Chronic Exertional Compartment Syndrome": {
+      "old": "M79.6",
+      "new": "/"
+    },
+    "Tibial Stress Syndrome": {
+      "old": "M76.5",
+      "new": "M84.36"
+    },
+    "Chronic Tibial Stress Fracture": {
+      "old": "M84.36",
+      "new": "M84.36"
+    }
+  },
+  "5743": {
+    "Post-Surgical Stiffness": {
+      "old": "M62.81",
+      "new": "M25.64"
+    },
+    "Scar Tissue Formation": {
+      "old": "L90.5",
+      "new": "L90.59"
+    },
+    "Mild Tendonitis": {
+      "old": "M76.9",
+      "new": "M65.24"
+    }
+  },
+  "5740": {
+    "Heat Rash": {
+      "old": "L72.0",
+      "new": "R21"
+    },
+    "Contact Dermatitis": {
+      "old": "L23",
+      "new": "L25.9"
+    },
+    "Seborrheic Dermatitis": {
+      "old": "L21",
+      "new": "L21.9"
+    }
+  },
+  "5739": {
+    "Rheumatoid Arthritis": {
+      "old": "M05",
+      "new": "M06.99"
+    },
+    "Fibromyalgia": {
+      "old": "M79.7",
+      "new": "M79.70"
+    },
+    "Lupus": {
+      "old": "M32",
+      "new": "M32.9"
+    }
+  },
+  "5738": {
+    "Muscle Strain": {
+      "old": "S76.1",
+      "new": "M62.68"
+    },
+    "Herniated Disc": {
+      "old": "M51.2",
+      "new": "M51.2"
+    },
+    "Spondylolisthesis": {
+      "old": "M43.0",
+      "new": "M43.16"
+    }
+  },
+  "5736": {
+    "Testicular Cancer": {
+      "old": "C62",
+      "new": "C62.9"
+    },
+    "Hydrocele": {
+      "old": "N43.0",
+      "new": "N43.3"
+    },
+    "Varicocele": {
+      "old": "N50.2",
+      "new": "N43.3"
+    }
+  },
+  "5735": {
+    "Viral Upper Respiratory Infection": {
+      "old": "J06.9",
+      "new": "J06.9"
+    },
+    "Bacterial Pharyngitis": {
+      "old": "J02.0",
+      "new": "J02.0"
+    },
+    "Acute Bronchitis": {
+      "old": "J20",
+      "new": "J20.9"
+    }
+  },
+  "5734": {
+    "Testicular Tumor": {
+      "old": "C62",
+      "new": "C62.9"
+    },
+    "Hydrocele": {
+      "old": "N43.0",
+      "new": "N43.3"
+    },
+    "Varicocele": {
+      "old": "N50.2",
+      "new": "I86.3"
+    }
+  },
+  "5733": {
+    "Hemorrhoids": {
+      "old": "I84",
+      "new": "K64.9"
+    },
+    "Anal Fissures": {
+      "old": "K60.0",
+      "new": "K60.0"
+    },
+    "Inflammatory Bowel Disease": {
+      "old": "K50",
+      "new": "K50.9"
+    }
+  },
+  "5732": {
+    "Covid-19": {
+      "old": "U07.1",
+      "new": "B34.2"
+    },
+    "Infectious Mononucleosis": {
+      "old": "B27.1",
+      "new": "B27.9"
+    }
+  },
+  "5731": {
+    "Covid-19": {
+      "old": "U07.1",
+      "new": "U07.1"
+    },
+    "Viral Pharyngitis": {
+      "old": "J02.9",
+      "new": "J02.9"
+    },
+    "Infectious Mononucleosis": {
+      "old": "B27.1",
+      "new": "B27.9"
+    }
+  },
+  "5730": {
+    "Polycystic Ovary Syndrome": {
+      "old": "E28.2",
+      "new": "/"
+    }
+  },
+  "5729": {
+    "Muscle Strain": {
+      "old": "S76.1",
+      "new": "M62.68"
+    },
+    "Poor Posture": {
+      "old": "M53.2",
+      "new": "R29.3"
+    },
+    "Mechanical Low Back Pain": {
+      "old": "M54.5",
+      "new": "M54.5"
+    }
+  },
+  "5728": {
+    "Herniated Disc": {
+      "old": "M51.2",
+      "new": "M51.2"
+    },
+    "Sciatica": {
+      "old": "M54.3",
+      "new": "M54.3"
+    },
+    "Spinal Stenosis": {
+      "old": "M48.0",
+      "new": "M48.06"
+    }
+  },
+  "5727": {
+    "Muscle Strain": {
+      "old": "S76.1",
+      "new": "M62.68"
+    },
+    "Poor Posture": {
+      "old": "M53.2",
+      "new": "R29.3"
+    },
+    "Mechanical Lower Back Pain": {
+      "old": "M54.5",
+      "new": "M54.5"
+    }
+  },
+  "5725": {
+    "Varicose Veins": {
+      "old": "I83.9",
+      "new": "I83.9"
+    },
+    "Chronic Venous Insufficiency": {
+      "old": "I87.2",
+      "new": "I87.2"
+    },
+    "Deep Vein Thrombosis": {
+      "old": "I82.4",
+      "new": "I80.3"
+    }
+  },
+  "5724": {
+    "Contact Dermatitis": {
+      "old": "L23",
+      "new": "L25.9"
+    },
+    "Atopic Dermatitis": {
+      "old": "L20",
+      "new": "L20.9"
+    },
+    "Rosacea": {
+      "old": "L71",
+      "new": "L71.9"
+    }
+  },
+  "5723": {
+    "Major Depressive Disorder": {
+      "old": "F33",
+      "new": "F32.90"
+    },
+    "Generalized Anxiety Disorder": {
+      "old": "F41.1",
+      "new": "F41.1"
+    },
+    "Sleep Apnea": {
+      "old": "G47.3",
+      "new": "G47.30"
+    }
+  },
+  "5722": {
+    "Chronic Prostatitis": {
+      "old": "N41.1",
+      "new": "N41.1"
+    },
+    "Chronic Urinary Tract Infection": {
+      "old": "N39.0",
+      "new": "N39.0"
+    },
+    "Chronic Pelvic Pain Syndrome": {
+      "old": "N94.6",
+      "new": "/"
+    }
+  },
+  "5720": {
+    "Food Poisoning": {
+      "old": "T62.0",
+      "new": "A05.9"
+    },
+    "Viral Gastroenteritis": {
+      "old": "A08",
+      "new": "A08.4"
+    },
+    "Salmonellosis": {
+      "old": "A02.0",
+      "new": "A02.0"
+    }
+  },
+  "5718": {
+    "Hypertension": {
+      "old": "I10",
+      "new": "I10"
+    },
+    "Migraine": {
+      "old": "G43",
+      "new": "G43.9"
+    },
+    "Tension-Type Headache": {
+      "old": "G44.2",
+      "new": "G44.2"
+    }
+  },
+  "5717": {
+    "Viral Upper Respiratory Infection": {
+      "old": "J06.9",
+      "new": "J06.9"
+    },
+    "Covid-19": {
+      "old": "U07.1",
+      "new": "B34.2"
+    },
+    "Streptococcal Pharyngitis": {
+      "old": "J02.0",
+      "new": "J02.0"
+    }
+  },
+  "5716": {
+    "Bleeding Or Clotting Disorder": {
+      "old": "D68.9",
+      "new": "D68.9"
+    },
+    "Vasculitis": {
+      "old": "M30",
+      "new": "L95.9"
+    },
+    "Erythema Multiforme": {
+      "old": "L51",
+      "new": "L51.9"
+    }
+  },
+  "5715": {
+    "Purpura": {
+      "old": "D69",
+      "new": "/"
+    },
+    "Allergic Purpura": {
+      "old": "D69.0",
+      "new": "D69.0"
+    },
+    "Idiopathic Thrombocytopenic Purpura": {
+      "old": "D69.3",
+      "new": "D69.3"
+    }
+  },
+  "5714": {
+    "Hyperprolactinemia": {
+      "old": "E22.1",
+      "new": "E22.1"
+    },
+    "Post-Traumatic Stress Disorder": {
+      "old": "F43.1",
+      "new": "F43.1"
+    }
+  },
+  "5712": {
+    "Thyroid Disorder": {
+      "old": "E03",
+      "new": "E07.9"
+    },
+    "Gastritis": {
+      "old": "K29",
+      "new": "K29.70"
+    }
+  },
+  "5711": {
+    "Gastritis": {
+      "old": "K29",
+      "new": "K29.70"
+    },
+    "Gastrointestinal Motility Disorder": {
+      "old": "K31.89",
+      "new": "/"
+    }
+  },
+  "5710": {
+    "Gastroesophageal Reflux Disease": {
+      "old": "K21",
+      "new": "K21.9"
+    },
+    "Functional Dyspepsia": {
+      "old": "K30",
+      "new": "K30"
+    }
+  },
+  "5709": {
+    "Sleep Paralysis": {
+      "old": "G47.53",
+      "new": "/"
+    },
+    "Hypnagogic Hallucinations": {
+      "old": "G47.81",
+      "new": "R44.3"
+    },
+    "Night Terrors": {
+      "old": "F51.3",
+      "new": "F51.4"
+    }
+  },
+  "5708": {
+    "Retained Product Of Conception": {
+      "old": "O03.5",
+      "new": "O06.3"
+    },
+    "Pelvic Inflammatory Disease": {
+      "old": "N70",
+      "new": "N73.9"
+    },
+    "Gastritis": {
+      "old": "K29",
+      "new": "K29.70"
+    }
+  },
+  "5707": {
+    "Gastroparesis": {
+      "old": "K31.84",
+      "new": "/"
+    },
+    "Functional Dyspepsia": {
+      "old": "K30",
+      "new": "K30"
+    },
+    "Psychosomatic Gastrointestinal Symptoms": {
+      "old": "F45.3",
+      "new": "F45.32"
+    }
+  },
+  "5705": {
+    "Urinary Tract Infection": {
+      "old": "N39.0",
+      "new": "N39.0"
+    },
+    "Hormonal Imbalance": {
+      "old": "E28.9",
+      "new": "E28.9"
+    },
+    "Anxiety": {
+      "old": "F41.9",
+      "new": "F41.9"
+    }
+  },
+  "5702": {
+    "Gastritis": {
+      "old": "K29",
+      "new": "K29.70"
+    },
+    "Peptic Ulcer Disease": {
+      "old": "K25",
+      "new": "K27.9"
+    }
+  },
+  "5701": {
+    "Separation Anxiety Disorder": {
+      "old": "F93.0",
+      "new": "F93.0"
+    },
+    "Social Anxiety Disorder": {
+      "old": "F40.10",
+      "new": "F93.2"
+    },
+    "Generalized Anxiety Disorder": {
+      "old": "F41.1",
+      "new": "F41.1"
+    }
+  },
+  "5700": {
+    "Separation Anxiety Disorder": {
+      "old": "F93.0",
+      "new": "F93.0"
+    },
+    "Oppositional Defiant Disorder": {
+      "old": "F91.3",
+      "new": "F91.3"
+    },
+    "Adjustment Disorder": {
+      "old": "F43.2",
+      "new": "F43.2"
+    }
+  },
+  "5699": {
+    "Post-Ventilator Syndrome": {
+      "old": "Z99.11",
+      "new": "J95.9"
+    },
+    "Aspiration Pneumonia": {
+      "old": "J69.0",
+      "new": "J18.9"
+    },
+    "Chronic Obstructive Pulmonary Disease": {
+      "old": "J44",
+      "new": "J44.9"
+    }
+  },
+  "5697": {
+    "Pregnancy": {
+      "old": "O00",
+      "new": "O26.9"
+    },
+    "Anxiety": {
+      "old": "F41.9",
+      "new": "F41.9"
+    },
+    "Vaginal Irritation": {
+      "old": "N76.0",
+      "new": "N76.8"
+    }
+  },
+  "5696": {
+    "Polycystic Ovary Syndrome": {
+      "old": "E28.2",
+      "new": "E28.2"
+    },
+    "Hypothyroidism": {
+      "old": "E03",
+      "new": "E03.9"
+    }
+  },
+  "5695": {
+    "Carpal Tunnel Syndrome": {
+      "old": "G56.0",
+      "new": "G56.0"
+    },
+    "Cellulitis": {
+      "old": "L03.90",
+      "new": "L03.12"
+    },
+    "Venous Thrombosis": {
+      "old": "I80",
+      "new": "I82.9"
+    }
+  },
+  "5694": {
+    "Mechanical Lower Back Pain": {
+      "old": "M54.5",
+      "new": "M54.5"
+    },
+    "Degenerative Disc Disease": {
+      "old": "M51.36",
+      "new": "M51.3"
+    }
+  },
+  "5693": {
+    "Generalized Anxiety Disorder": {
+      "old": "F41.1",
+      "new": "F41.1"
+    },
+    "Chronic Fatigue Syndrome": {
+      "old": "G93.3",
+      "new": "G93.3"
+    }
+  },
+  "5692": {
+    "Viral Upper Respiratory Infection": {
+      "old": "J06.9",
+      "new": "J06.9"
+    },
+    "Pneumonia": {
+      "old": "J18",
+      "new": "J18.9"
+    }
+  },
+  "5691": {
+    "Herpes Genitalis": {
+      "old": "A60",
+      "new": "A60.0"
+    },
+    "Human Papillomavirus Infection": {
+      "old": "B97.7",
+      "new": "B97.7"
+    },
+    "Non-Specific Urethritis": {
+      "old": "N34.1",
+      "new": "N34.1"
+    }
+  },
+  "5690": {
+    "Cervical Spondylitis": {
+      "old": "M47.1",
+      "new": "M47.92"
+    },
+    "Cervical Myelopathy": {
+      "old": "M47.12",
+      "new": "M50.0"
+    }
+  },
+  "5689": {
+    "Streptococcal Pharyngitis": {
+      "old": "J02.0",
+      "new": "J02.0"
+    },
+    "Infectious Mononucleosis": {
+      "old": "B27.1",
+      "new": "B27.9"
+    },
+    "Viral Upper Respiratory Infection": {
+      "old": "J06.9",
+      "new": "J06.9"
+    }
+  },
+  "5688": {
+    "Oral Thrush": {
+      "old": "B37.0",
+      "new": "/"
+    },
+    "Leukoplakia": {
+      "old": "K13.0",
+      "new": "K13.2"
+    },
+    "Lichen Planus": {
+      "old": "L43",
+      "new": "L43.9"
+    }
+  },
+  "5687": {
+    "Orthostatic Hypotension": {
+      "old": "I95.1",
+      "new": "I95.10"
+    },
+    "Anemia": {
+      "old": "D64",
+      "new": "D64.9"
+    },
+    "Meniere'S Disease": {
+      "old": "H81.0",
+      "new": "H81.0"
+    }
+  },
+  "5686": {
+    "Influenza": {
+      "old": "J10",
+      "new": "J11.1"
+    },
+    "Covid-19": {
+      "old": "U07.1",
+      "new": "B34.2"
+    },
+    "Systemic Lupus Erythematosus": {
+      "old": "M32",
+      "new": "M32.9"
+    }
+  },
+  "5685": {
+    "Essential Hypertension": {
+      "old": "I10",
+      "new": "I10"
+    },
+    "Obesity": {
+      "old": "E66",
+      "new": "E66.91"
+    },
+    "Metabolic Syndrome": {
+      "old": "E88.81",
+      "new": "E88.9"
+    }
+  },
+  "5684": {
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.9"
+    },
+    "Lactose Intolerance": {
+      "old": "K86.1",
+      "new": "E73.9"
+    },
+    "Small Intestinal Bacterial Overgrowth": {
+      "old": "K90.0",
+      "new": "K90.9"
+    }
+  },
+  "5683": {
+    "Chronic Lymphocytic Leukemia": {
+      "old": "C91.1",
+      "new": "C91.10"
+    },
+    "Multiple Myeloma": {
+      "old": "C90.0",
+      "new": "C90.00"
+    }
+  },
+  "5682": {
+    "Folliculitis": {
+      "old": "L73.9",
+      "new": "L66.2"
+    },
+    "Bartholin Gland Abscess": {
+      "old": "N75.0",
+      "new": "/"
+    },
+    "Hidradenitis Suppurativa": {
+      "old": "L73.2",
+      "new": "L73.2"
+    }
+  },
+  "5681": {
+    "Generalized Anxiety Disorder": {
+      "old": "F41.1",
+      "new": "F41.1"
+    },
+    "Major Depressive Disorder": {
+      "old": "F33",
+      "new": "F32.90"
+    },
+    "Panic Disorder": {
+      "old": "F41.0",
+      "new": "F41.0"
+    }
+  },
+  "5680": {
+    "Sickle Cell Disease In Offspring": {
+      "old": "D57",
+      "new": "D57.0"
+    },
+    "Reproductive Planning With Preimplantation Genetic Diagnosis": {
+      "old": "Z31.5",
+      "new": "O28.5"
+    },
+    "Genetic Counseling For Family Planning": {
+      "old": "Z31.6",
+      "new": "O35.2"
+    }
+  },
+  "5679": {
+    "Hormonal Imbalance": {
+      "old": "E34.9",
+      "new": "E28.9"
+    },
+    "Ovulation Spotting": {
+      "old": "N92.0",
+      "new": "N92.3"
+    },
+    "Stress-Induced Menstrual Irregularities": {
+      "old": "N94.6",
+      "new": "N92.6"
+    }
+  },
+  "5676": {
+    "Advanced Parkinson'S Disease": {
+      "old": "G20",
+      "new": "G20"
+    },
+    "Disuse Atrophy With Contracture Deformities": {
+      "old": "M62.5",
+      "new": "M62.59"
+    }
+  },
+  "5675": {
+    "Inflammatory Bowel Disease": {
+      "old": "K50",
+      "new": "K50.9"
+    },
+    "Gastroenteritis": {
+      "old": "A09",
+      "new": "A09.9"
+    },
+    "Parasitic Infection": {
+      "old": "B99",
+      "new": "B89"
+    }
+  },
+  "5663": {
+    "Folliculitis": {
+      "old": "L73.9",
+      "new": "L66.2"
+    },
+    "Yeast Infection": {
+      "old": "B37.9",
+      "new": "B37.3"
+    },
+    "Genital Herpes": {
+      "old": "A60",
+      "new": "A60.0"
+    }
+  },
+  "5662": {
+    "Concussion": {
+      "old": "S06.0",
+      "new": "S06.00"
+    },
+    "Subdural Hematoma": {
+      "old": "S06.5",
+      "new": "S06.5"
+    },
+    "Minor Traumatic Brain Injury": {
+      "old": "S06.0",
+      "new": "S06.9"
+    }
+  },
+  "5661": {
+    "Genital Herpes": {
+      "old": "A60",
+      "new": "A60.0"
+    },
+    "Bacterial Vaginosis": {
+      "old": "N76.0",
+      "new": "N76.0"
+    },
+    "Yeast Infection": {
+      "old": "B37.9",
+      "new": "B37.3"
+    }
+  },
+  "5660": {
+    "Allergic Rhinitis": {
+      "old": "J30",
+      "new": "J30.4"
+    },
+    "Viral Upper Respiratory Infection": {
+      "old": "J06.9",
+      "new": "J06.9"
+    }
+  },
+  "5659": {
+    "Attention Deficit Hyperactivity Disorder": {
+      "old": "F90",
+      "new": "F90.0"
+    },
+    "Generalized Anxiety Disorder": {
+      "old": "F41.1",
+      "new": "F41.1"
+    },
+    "Obsessive Compulsive Disorder": {
+      "old": "F42",
+      "new": "F42.9"
+    }
+  },
+  "5657": {
+    "Muscle Strain": {
+      "old": "S76.0",
+      "new": "M62.68"
+    },
+    "Costochondritis": {
+      "old": "M94.0",
+      "new": "M94.0"
+    },
+    "Intercostal Muscle Injury": {
+      "old": "S26.0",
+      "new": "S29.0"
+    }
+  },
+  "5656": {
+    "Endometriosis": {
+      "old": "N80",
+      "new": "N80.9"
+    },
+    "Chronic Pelvic Inflammatory Disease": {
+      "old": "N73.9",
+      "new": "N73.1"
+    }
+  },
+  "5655": {
+    "Diabetes Mellitus": {
+      "old": "E10",
+      "new": "E14.9"
+    },
+    "Urinary Tract Infection": {
+      "old": "N39.0",
+      "new": "N39.0"
+    },
+    "Chronic Kidney Disease": {
+      "old": "N18",
+      "new": "N18.9"
+    }
+  },
+  "5654": {
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.9"
+    },
+    "Chronic Prostatitis": {
+      "old": "N41.1",
+      "new": "N41.1"
+    },
+    "Inflammatory Bowel Disease": {
+      "old": "K50",
+      "new": "K50.9"
+    }
+  },
+  "5653": {
+    "Folliculitis": {
+      "old": "L73.9",
+      "new": "L66.2"
+    },
+    "Furuncle": {
+      "old": "L02.0",
+      "new": "/"
+    },
+    "Bartholin Gland Cyst": {
+      "old": "N81.0",
+      "new": "N75.0"
+    }
+  },
+  "5649": {
+    "Chronic Bronchitis": {
+      "old": "J42",
+      "new": "J42"
+    },
+    "Tuberculosis": {
+      "old": "A15",
+      "new": "A18.8"
+    },
+    "Pneumonia": {
+      "old": "J18",
+      "new": "J18.9"
+    }
+  },
+  "5648": {
+    "Neuropathy": {
+      "old": "G62.9",
+      "new": "G60.9"
+    }
+  },
+  "5647": {
+    "Malaria": {
+      "old": "B50",
+      "new": "B54"
+    },
+    "Intestinal Parasitic Infection": {
+      "old": "A00",
+      "new": "B82.9"
+    },
+    "Typhoid Fever": {
+      "old": "A01.0",
+      "new": "A01.0"
+    }
+  },
+  "5646": {
+    "Hyperthyroidism": {
+      "old": "E05",
+      "new": "E05.8"
+    },
+    "Chronic Kidney Disease": {
+      "old": "N18",
+      "new": "N18.9"
+    }
+  },
+  "5645": {
+    "Urinary Tract Infection": {
+      "old": "N39.0",
+      "new": "N39.0"
+    },
+    "Interstitial Cystitis": {
+      "old": "N30.10",
+      "new": "N30.1"
+    },
+    "Sexually Transmitted Infection": {
+      "old": "A50",
+      "new": "A64"
+    }
+  },
+  "5644": {
+    "Allergic Reaction": {
+      "old": "T78.4",
+      "new": "T78.4"
+    },
+    "Angioedema": {
+      "old": "T78.3",
+      "new": "T78.3"
+    },
+    "Systemic Lupus Erythematosus": {
+      "old": "M32",
+      "new": "M32.9"
+    }
+  },
+  "5643": {
+    "Diverticulitis": {
+      "old": "K57.90",
+      "new": "K57.92"
+    },
+    "Abdominal Muscle Strain": {
+      "old": "S39.0",
+      "new": "S39.0"
+    },
+    "Kidney Stone": {
+      "old": "N20",
+      "new": "N20.0"
+    }
+  },
+  "5642": {
+    "Allergic Contact Dermatitis": {
+      "old": "L23",
+      "new": "L23.7"
+    },
+    "Tinea Corporis": {
+      "old": "B35.4",
+      "new": "B35.4"
+    },
+    "Chickenpox": {
+      "old": "B01",
+      "new": "B01.9"
+    }
+  },
+  "5641": {
+    "Penile Inflammation": {
+      "old": "N48.1",
+      "new": "N48.2"
+    },
+    "Mild Allergic Reaction": {
+      "old": "T78.4",
+      "new": "T78.4"
+    }
+  },
+  "5640": {
+    "Penile Injury": {
+      "old": "S30.0",
+      "new": "/"
+    },
+    "Localized Penile Infection": {
+      "old": "N34.9",
+      "new": "L08.9"
+    }
+  },
+  "5638": {
+    "Vaginal Prolapse": {
+      "old": "N81",
+      "new": "N81.9"
+    },
+    "Vaginal Cyst Or Polyp": {
+      "old": "N89.0",
+      "new": "N84.2"
+    },
+    "Prolapsed Uterine Fibroid": {
+      "old": "D25",
+      "new": "D25.9"
+    }
+  },
+  "5637": {
+    "Gastrointestinal Infection": {
+      "old": "A00",
+      "new": "A09.0"
+    },
+    "Pediatric Inflammatory Bowel Disease": {
+      "old": "K50",
+      "new": "M09.19"
+    },
+    "Food Intolerance Or Allergy": {
+      "old": "K52.2",
+      "new": "K52.2"
+    }
+  },
+  "5636": {
+    "Gastroesophageal Reflux Disease": {
+      "old": "K21",
+      "new": "K21.9"
+    },
+    "Esophagitis": {
+      "old": "K20",
+      "new": "K20"
+    },
+    "Globus Pharyngeus": {
+      "old": "R44.89",
+      "new": "R07.0"
+    }
+  },
+  "5635": {
+    "Yeast Infection": {
+      "old": "B37.9",
+      "new": "B37.3"
+    },
+    "Bacterial Vaginosis": {
+      "old": "N70.1",
+      "new": "N76.0"
+    },
+    "Urinary Tract Infection": {
+      "old": "N39.0",
+      "new": "N39.0"
+    }
+  },
+  "5634": {
+    "Alopecia Areata": {
+      "old": "L63.0",
+      "new": "L63.9"
+    },
+    "Telogen Effluvium": {
+      "old": "L65.0",
+      "new": "L65.0"
+    },
+    "Androgenetic Alopecia": {
+      "old": "L64",
+      "new": "L64.9"
+    }
+  },
+  "5633": {
+    "Iron Deficiency Anemia": {
+      "old": "D50",
+      "new": "D50.9"
+    },
+    "Nutritional Deficiency": {
+      "old": "E50",
+      "new": "E63.9"
+    },
+    "Depression": {
+      "old": "F32",
+      "new": "F32.90"
+    }
+  },
+  "5632": {
+    "Bacterial Vaginosis": {
+      "old": "N70.1",
+      "new": "N76.0"
+    },
+    "Yeast Infection": {
+      "old": "B37.9",
+      "new": "B37.3"
+    }
+  },
+  "5630": {
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.9"
+    },
+    "Gastritis": {
+      "old": "K29",
+      "new": "K29.70"
+    }
+  },
+  "5627": {
+    "Polycystic Ovary Syndrome": {
+      "old": "E28.2",
+      "new": "E28.2"
+    },
+    "Hypoactive Sexual Desire Disorder": {
+      "old": "F52.0",
+      "new": "F52.0"
+    }
+  },
+  "5626": {
+    "Allergic Rhinitis": {
+      "old": "J30",
+      "new": "J30.4"
+    },
+    "Influenza": {
+      "old": "J10",
+      "new": "J11.1"
+    }
+  },
+  "5624": {
+    "Poor Genital Hygiene": {
+      "old": "N39.0",
+      "new": "R46.0"
+    },
+    "Phimosis": {
+      "old": "N47.1",
+      "new": "N47"
+    },
+    "Balanitis": {
+      "old": "N48.1",
+      "new": "N48.1"
+    }
+  },
+  "5623": {
+    "Breast Abscess": {
+      "old": "N61.0",
+      "new": "N61"
+    },
+    "Fibrocystic Breast Changes": {
+      "old": "N60.0",
+      "new": "/"
+    },
+    "Fibroadenoma": {
+      "old": "D24",
+      "new": "D24"
+    }
+  },
+  "5622": {
+    "Testicular Cancer": {
+      "old": "C62",
+      "new": "C62.9"
+    },
+    "Testicular Torsion": {
+      "old": "N44.3",
+      "new": "N44"
+    },
+    "Epididymal Cyst": {
+      "old": "N43.3",
+      "new": "D29.3"
+    }
+  },
+  "5621": {
+    "Uterine Fibroids": {
+      "old": "D25",
+      "new": "D25.9"
+    },
+    "Ovarian Cysts": {
+      "old": "N83.2",
+      "new": "N83.2"
+    }
+  },
+  "5618": {
+    "Testicular Cancer": {
+      "old": "C62",
+      "new": "C62.9"
+    },
+    "Epididymitis": {
+      "old": "N45.1",
+      "new": "N45.9"
+    }
+  },
+  "5616": {
+    "Spinal Epidural Abscess": {
+      "old": "G00.2",
+      "new": "G06.1"
+    },
+    "Vertebral Osteomyelitis": {
+      "old": "M46.1",
+      "new": "M46.26"
+    },
+    "Deep Vein Thrombosis With Pulmonary Embolism": {
+      "old": "I82.4",
+      "new": "I26.9"
+    }
+  },
+  "5614": {
+    "Rotavirus Infection": {
+      "old": "A08.0",
+      "new": "/"
+    },
+    "Norovirus Infection": {
+      "old": "A08.1",
+      "new": "A08.1"
+    }
+  },
+  "5613": {
+    "Ovarian Cancer": {
+      "old": "C56",
+      "new": "C56"
+    },
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.9"
+    }
+  },
+  "5611": {
+    "Influenza": {
+      "old": "J10",
+      "new": "J11.1"
+    },
+    "Covid-19": {
+      "old": "U07.1",
+      "new": "B34.2"
+    },
+    "Viral Pneumonia": {
+      "old": "J12",
+      "new": "J12.9"
+    }
+  },
+  "5610": {
+    "Endometriosis": {
+      "old": "N80",
+      "new": "N80.0"
+    },
+    "Urinary Tract Infection": {
+      "old": "N39.0",
+      "new": "N39.0"
+    },
+    "Pelvic Inflammatory Disease": {
+      "old": "N70",
+      "new": "N73.9"
+    }
+  },
+  "5609": {
+    "Depression": {
+      "old": "F32",
+      "new": "F32.90"
+    },
+    "Anemia": {
+      "old": "D50",
+      "new": "D64.9"
+    }
+  },
+  "5608": {
+    "Essential Hypertension": {
+      "old": "I10",
+      "new": "I10"
+    },
+    "Secondary Hypertension": {
+      "old": "I15.0",
+      "new": "I15.9"
+    },
+    "Stress-Related Hypertension": {
+      "old": "I10",
+      "new": "R45.7"
+    }
+  },
+  "5607": {
+    "Genital Herpes": {
+      "old": "A60",
+      "new": "A60.0"
+    }
+  },
+  "5606": {
+    "Herpes Simplex Virus": {
+      "old": "B00.1",
+      "new": "A60.0"
+    },
+    "Candidiasis": {
+      "old": "B37",
+      "new": "/"
+    }
+  },
+  "5605": {
+    "Rheumatoid Arthritis": {
+      "old": "M05",
+      "new": "M06.99"
+    },
+    "Polymyalgia Rheumatica": {
+      "old": "M35.3",
+      "new": "M35.3"
+    }
+  },
+  "5604": {
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.9"
+    },
+    "Gastritis": {
+      "old": "K29",
+      "new": "K29.70"
+    },
+    "Mesenteric Adenitis": {
+      "old": "K65.1",
+      "new": "I88.0"
+    }
+  },
+  "5602": {
+    "Recurrent Ovarian Endometriosis": {
+      "old": "N80.1",
+      "new": "N80.1"
+    },
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.9"
+    },
+    "Diverticulosis": {
+      "old": "K57.9",
+      "new": "K57.90"
+    }
+  },
+  "5599": {
+    "Gastroesophageal Reflux Disease": {
+      "old": "K21",
+      "new": "K21.9"
+    },
+    "Laryngopharyngeal Reflux": {
+      "old": "K21.9",
+      "new": "K21.9"
+    },
+    "Endometriosis Involving The Gastrointestinal Tract": {
+      "old": "N80.2",
+      "new": "N80.5"
+    }
+  },
+  "5597": {
+    "Hyperthyroidism": {
+      "old": "E05",
+      "new": "E05.2"
+    },
+    "Generalized Anxiety Disorder": {
+      "old": "F41.1",
+      "new": "F41.1"
+    },
+    "Perimenopause": {
+      "old": "N95.1",
+      "new": "N95.9"
+    }
+  },
+  "5596": {
+    "Staphylococcal Skin Infection": {
+      "old": "L00",
+      "new": "A49.01"
+    },
+    "Chronic Skin Abscess": {
+      "old": "L02.2",
+      "new": "L02.2"
+    },
+    "Non-Healing Wound": {
+      "old": "L98.9",
+      "new": "T14.1"
+    }
+  },
+  "5594": {
+    "Infected Epidermoid Cyst": {
+      "old": "L72.0",
+      "new": "L72.0"
+    },
+    "Hidradenitis Suppurativa": {
+      "old": "L73.2",
+      "new": "L73.2"
+    }
+  },
+  "5593": {
+    "Adverse Reaction To Ciprofloxacin": {
+      "old": "T88.1",
+      "new": "T88.7"
+    },
+    "Drug-Induced Vestibular Disturbance": {
+      "old": "R42",
+      "new": "H83.2"
+    },
+    "Drug Intolerance": {
+      "old": "T88.1",
+      "new": "T88.7"
+    }
+  },
+  "5592": {
+    "Endometriosis": {
+      "old": "N80",
+      "new": "/"
+    },
+    "Polycystic Ovary Syndrome": {
+      "old": "E28.2",
+      "new": "E28.2"
+    }
+  },
+  "5591": {
+    "Ovulatory Bleeding": {
+      "old": "N94.0",
+      "new": "N92.3"
+    },
+    "Endometrial Polyps": {
+      "old": "N84.0",
+      "new": "N84.8"
+    },
+    "Cervical Ectropion": {
+      "old": "N87.1",
+      "new": "N86"
+    }
+  },
+  "5590": {
+    "Gastroesophageal Reflux Disease": {
+      "old": "K21",
+      "new": "K21.9"
+    },
+    "Peptic Ulcer Disease": {
+      "old": "K25",
+      "new": "K27.9"
+    },
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.9"
+    }
+  },
+  "5588": {
+    "Hormonal Imbalance": {
+      "old": "E34.9",
+      "new": "E28.9"
+    },
+    "Endometrial Hyperplasia": {
+      "old": "N85.0",
+      "new": "N85.0"
+    }
+  },
+  "5587": {
+    "Chronic Fatigue Syndrome": {
+      "old": "G93.3",
+      "new": "G93.3"
+    },
+    "Hypothyroidism": {
+      "old": "E03",
+      "new": "E03.9"
+    },
+    "Systemic Lupus Erythematosus": {
+      "old": "M32",
+      "new": "M32.9"
+    }
+  },
+  "5585": {
+    "Premenstrual Syndrome": {
+      "old": "N94.3",
+      "new": "N94.3"
+    },
+    "Premenstrual Dysphoric Disorder": {
+      "old": "F32.81",
+      "new": "N94.3"
+    },
+    "Fibrocystic Breast Changes": {
+      "old": "N60.0",
+      "new": "N60.1"
+    }
+  },
+  "5584": {
+    "Costochondritis": {
+      "old": "M94.0",
+      "new": "M94.0"
+    },
+    "Cervical Radiculopathy": {
+      "old": "M54.12",
+      "new": "M54.12"
+    },
+    "Thoracic Outlet Syndrome": {
+      "old": "G54.0",
+      "new": "G54.3"
+    }
+  },
+  "5583": {
+    "Dysmenorrhea": {
+      "old": "N94.6",
+      "new": "N94.6"
+    },
+    "Adenomyosis": {
+      "old": "N80.0",
+      "new": "N80.0"
+    }
+  },
+  "5580": {
+    "Primary Dysmenorrhea": {
+      "old": "N94.6",
+      "new": "N94.4"
+    },
+    "Endometriosis": {
+      "old": "N80",
+      "new": "N80.9"
+    },
+    "Adenomyosis": {
+      "old": "N80.0",
+      "new": "J35.9"
+    }
+  },
+  "5578": {
+    "Influenza": {
+      "old": "J10",
+      "new": "J11.1"
+    },
+    "Covid-19": {
+      "old": "U07.1",
+      "new": "B34.2"
+    },
+    "Acute Viral Upper Respiratory Infection": {
+      "old": "J06.9",
+      "new": "J06.9"
+    }
+  },
+  "5577": {
+    "Benign Prostatic Hyperplasia": {
+      "old": "N40",
+      "new": "N40"
+    },
+    "Urinary Tract Infection": {
+      "old": "N39.0",
+      "new": "N39.0"
+    },
+    "Bladder Outlet Obstruction": {
+      "old": "N13.3",
+      "new": "N32.0"
+    }
+  },
+  "5576": {
+    "Temporomandibular Joint Disorder": {
+      "old": "M26.60",
+      "new": "K07.6"
+    },
+    "Tension Headache": {
+      "old": "G44.2",
+      "new": "G44.2"
+    },
+    "Myofascial Pain Syndrome": {
+      "old": "M79.1",
+      "new": "M79.10"
+    }
+  },
+  "5575": {
+    "Primary Lactation Failure": {
+      "old": "O92.1",
+      "new": "O92.70"
+    },
+    "Hypothyroidism": {
+      "old": "E03",
+      "new": "E03.9"
+    }
+  },
+  "5574": {
+    "Fibromyalgia": {
+      "old": "M79.7",
+      "new": "M79.70"
+    },
+    "Diabetic Neuropathy": {
+      "old": "G63.2",
+      "new": "E11.42"
+    },
+    "Chronic Stress And Anxiety": {
+      "old": "F41.1",
+      "new": "/"
+    }
+  },
+  "5573": {
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.0"
+    },
+    "Food Intolerance": {
+      "old": "K90.4",
+      "new": "K90.4"
+    },
+    "Functional Gastrointestinal Disorder": {
+      "old": "K58",
+      "new": "K59.9"
+    }
+  },
+  "5572": {
+    "Gastroenteritis": {
+      "old": "A08",
+      "new": "A09.9"
+    },
+    "Influenza": {
+      "old": "J10",
+      "new": "J11.8"
+    },
+    "Dengue Fever": {
+      "old": "A90",
+      "new": "A97.9"
+    }
+  },
+  "5571": {
+    "Contact Dermatitis": {
+      "old": "L23",
+      "new": "L25.9"
+    },
+    "Anal Fissures": {
+      "old": "K60.0",
+      "new": "K60.2"
+    },
+    "Intertrigo": {
+      "old": "L30.4",
+      "new": "L30.4"
+    }
+  },
+  "5570": {
+    "Chronic Kidney Disease": {
+      "old": "N18",
+      "new": "N18.5"
+    },
+    "Acute Kidney Injury": {
+      "old": "N17",
+      "new": "N17.9"
+    },
+    "Nephrotic Syndrome": {
+      "old": "N04",
+      "new": "N04.9"
+    }
+  },
+  "5569": {
+    "Migraine": {
+      "old": "G43",
+      "new": "G43.9"
+    },
+    "Refractive Error": {
+      "old": "H52.1",
+      "new": "H52.7"
+    },
+    "Tension-Type Headache": {
+      "old": "G44.2",
+      "new": "G44.2"
+    }
+  },
+  "5568": {
+    "Chronic Venous Insufficiency": {
+      "old": "I87.2",
+      "new": "I87.2"
+    },
+    "Lymphedema": {
+      "old": "I89.0",
+      "new": "I89.0"
+    },
+    "Deep Vein Thrombosis": {
+      "old": "I82.4",
+      "new": "I80.20"
+    }
+  },
+  "5565": {
+    "Genital Herpes": {
+      "old": "A60",
+      "new": "A60.0"
+    },
+    "Syphilis": {
+      "old": "A53",
+      "new": "A53.9"
+    },
+    "Candidiasis": {
+      "old": "B37",
+      "new": "B37.4"
+    }
+  },
+  "5564": {
+    "Migraine With Aura": {
+      "old": "G43.1",
+      "new": "G43.1"
+    },
+    "Ocular Migraine": {
+      "old": "G43.1",
+      "new": "G43.1"
+    },
+    "Benign Paroxysmal Positional Vertigo": {
+      "old": "H81.1",
+      "new": "H81.1"
+    }
+  },
+  "5563": {
+    "Migraine With Aura": {
+      "old": "G43.1",
+      "new": "G43.1"
+    },
+    "Ocular Migraine": {
+      "old": "G43.1",
+      "new": "G43.1"
+    },
+    "Retinal Migraine": {
+      "old": "G43.3",
+      "new": "G43.1"
+    }
+  },
+  "5562": {
+    "Chronic Venous Insufficiency": {
+      "old": "I87.2",
+      "new": "I87.2"
+    },
+    "Deep Vein Thrombosis": {
+      "old": "I82.90",
+      "new": "I80.20"
+    },
+    "Lipodermatosclerosis": {
+      "old": "I87.2",
+      "new": "L86"
+    }
+  },
+  "5561": {
+    "Generalized Anxiety Disorder": {
+      "old": "F41.1",
+      "new": "F41.1"
+    },
+    "Panic Disorder": {
+      "old": "F41.0",
+      "new": "F41.0"
+    },
+    "Hyperthyroidism": {
+      "old": "E05",
+      "new": "E05.2"
+    }
+  },
+  "5560": {
+    "Gallbladder Disease": {
+      "old": "K80",
+      "new": "K82.9"
+    },
+    "Gastroesophageal Reflux Disease": {
+      "old": "K21",
+      "new": "K21.9"
+    },
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.9"
+    }
+  },
+  "5559": {
+    "Anisometropia": {
+      "old": "H52.5",
+      "new": "H52.3"
+    }
+  },
+  "5558": {
+    "Muscle Strain": {
+      "old": "S76.0",
+      "new": "S23.3"
+    },
+    "Facet Joint Syndrome": {
+      "old": "M53.2",
+      "new": "M25.89"
+    },
+    "Herniated Disc": {
+      "old": "M51.2",
+      "new": "M51.9"
+    }
+  },
+  "5557": {
+    "Superficial Thrombophlebitis": {
+      "old": "I80.1",
+      "new": "I80.0"
+    },
+    "Venous Insufficiency": {
+      "old": "I87.2",
+      "new": "I87.2"
+    },
+    "Deep Vein Thrombosis": {
+      "old": "I82.90",
+      "new": "I80.20"
+    }
+  },
+  "5554": {
+    "Educational Study Aid": {
+      "old": "N/A",
+      "new": "F81.9"
+    }
+  },
+  "5553": {
+    "Acute Bronchitis": {
+      "old": "J20",
+      "new": "J20.9"
+    },
+    "Pleurisy": {
+      "old": "J90",
+      "new": "R09.1"
+    },
+    "Costochondritis": {
+      "old": "M94.0",
+      "new": "M94.0"
+    }
+  },
+  "5552": {
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.0"
+    },
+    "Mild Gastrointestinal Infection": {
+      "old": "A09",
+      "new": "A09.0"
+    },
+    "Food Intolerance": {
+      "old": "K90.4",
+      "new": "K90.4"
+    }
+  },
+  "5550": {
+    "Early Pregnancy": {
+      "old": "O02.1",
+      "new": "O26.9"
+    },
+    "Polycystic Ovary Syndrome": {
+      "old": "E28.2",
+      "new": "E28.2"
+    }
+  },
+  "5549": {
+    "Cardiovascular Disease": {
+      "old": "I00",
+      "new": "I51.6"
+    }
+  },
+  "5548": {
+    "Lactose Intolerance": {
+      "old": "K86.1",
+      "new": "E73.9"
+    },
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.0"
+    },
+    "Hemorrhoids": {
+      "old": "K64",
+      "new": "K64.9"
+    }
+  },
+  "5546": {
+    "Rheumatoid Arthritis": {
+      "old": "M05",
+      "new": "M06.94"
+    },
+    "Generalized Anxiety Disorder": {
+      "old": "F41.1",
+      "new": "F41.1"
+    }
+  },
+  "5545": {
+    "Hiv": {
+      "old": "B20",
+      "new": "B24"
+    },
+    "Local Infection Or Irritation": {
+      "old": "L08",
+      "new": "L08.9"
+    },
+    "No Infection Or Significant Health Issue": {
+      "old": "Z00.00",
+      "new": "A49.9"
+    }
+  },
+  "5544": {
+    "Herniated Disc": {
+      "old": "M51.2",
+      "new": "M51.2"
+    },
+    "Multiple Sclerosis": {
+      "old": "G35",
+      "new": "G35"
+    },
+    "Cervical Radiculopathy": {
+      "old": "M54.12",
+      "new": "M54.12"
+    }
+  },
+  "5543": {
+    "Gynecomastia": {
+      "old": "N62",
+      "new": "/"
+    },
+    "Breast Abscess": {
+      "old": "N61.0",
+      "new": "N61"
+    },
+    "Male Breast Cancer": {
+      "old": "C50.9",
+      "new": "C50.9"
+    }
+  },
+  "5542": {
+    "Fatty Liver Disease": {
+      "old": "K76.0",
+      "new": "K76.0"
+    },
+    "Alcoholic Hepatitis": {
+      "old": "K70.1",
+      "new": "K70.1"
+    },
+    "Chronic Liver Disease": {
+      "old": "K74",
+      "new": "K76.9"
+    }
+  },
+  "5541": {
+    "Migraine": {
+      "old": "G43",
+      "new": "G43.9"
+    },
+    "Tension Headache": {
+      "old": "G44.2",
+      "new": "G44.2"
+    },
+    "Sinusitis": {
+      "old": "J01",
+      "new": "J01.9"
+    }
+  },
+  "5540": {
+    "Generalized Anxiety Disorder": {
+      "old": "F41.1",
+      "new": "F41.1"
+    },
+    "Cardiac Arrhythmia": {
+      "old": "I49",
+      "new": "I49.9"
+    },
+    "Hyperthyroidism": {
+      "old": "E05",
+      "new": "E05.2"
+    }
+  },
+  "5538": {
+    "Vaginal Yeast Infection": {
+      "old": "B37.3",
+      "new": "/"
+    },
+    "Hormonal Imbalance": {
+      "old": "E34.9",
+      "new": "/"
+    },
+    "Bacterial Vaginosis": {
+      "old": "N70.3",
+      "new": "N76.0"
+    }
+  },
+  "5537": {
+    "Anxiety Or Stress-Induced Hyperarousal": {
+      "old": "F41.9",
+      "new": "F43.8"
+    }
+  },
+  "5536": {
+    "Premenstrual Syndrome": {
+      "old": "N94.3",
+      "new": "N94.3"
+    },
+    "Ovulatory Phase": {
+      "old": "N97.0",
+      "new": "N94.8"
+    },
+    "Polycystic Ovary Syndrome": {
+      "old": "E28.2",
+      "new": "E28.2"
+    }
+  },
+  "5535": {
+    "Dysmenorrhea": {
+      "old": "N94.6",
+      "new": "N94.6"
+    }
+  },
+  "5534": {
+    "Kidney Infection": {
+      "old": "N10",
+      "new": "N39.0"
+    },
+    "Kidney Stones": {
+      "old": "N20",
+      "new": "Q63.82"
+    },
+    "Urinary Tract Infection": {
+      "old": "N39.0",
+      "new": "N39.0"
+    }
+  },
+  "5533": {
+    "Autoimmune Disease": {
+      "old": "M32",
+      "new": "D89.9"
+    },
+    "Viral Exanthem": {
+      "old": "B08.2",
+      "new": "B34.9"
+    }
+  },
+  "5532": {
+    "Muscle Strain": {
+      "old": "S76.0",
+      "new": "M62.65"
+    },
+    "Herniated Disc": {
+      "old": "M51.2",
+      "new": "M51.9"
+    },
+    "Hemorrhoids": {
+      "old": "K64",
+      "new": "K64.9"
+    }
+  },
+  "5530": {
+    "Bacteremia": {
+      "old": "A41.9",
+      "new": "A49.9"
+    },
+    "Aortic Valve Insufficiency": {
+      "old": "I35.0",
+      "new": "I35.1"
+    }
+  },
+  "5529": {
+    "Aortic Valve Stenosis": {
+      "old": "I35.0",
+      "new": "I35.0"
+    },
+    "Systemic Lupus Erythematosus": {
+      "old": "M32",
+      "new": "M32.9"
+    }
+  },
+  "5528": {
+    "Generalized Anxiety Disorder": {
+      "old": "F41.1",
+      "new": "F41.1"
+    }
+  },
+  "5527": {
+    "Influenza": {
+      "old": "J10",
+      "new": "J10.1"
+    },
+    "Streptococcal Throat Infection": {
+      "old": "J02.0",
+      "new": "J02.0"
+    },
+    "Viral Upper Respiratory Infection": {
+      "old": "J06.9",
+      "new": "J06.9"
+    }
+  },
+  "5526": {
+    "Tinea Cruris": {
+      "old": "B35.6",
+      "new": "B35.6"
+    },
+    "Contact Dermatitis": {
+      "old": "L23",
+      "new": "L25.9"
+    },
+    "Scabies": {
+      "old": "B86",
+      "new": "B86"
+    }
+  },
+  "5525": {
+    "Temporomandibular Joint Disorder": {
+      "old": "M26.60",
+      "new": "K07.6"
+    },
+    "Salivary Gland Disorder": {
+      "old": "K11",
+      "new": "K11.9"
+    }
+  },
+  "5524": {
+    "Major Depressive Disorder": {
+      "old": "F33",
+      "new": "F32.90"
+    },
+    "Hashimoto'S Thyroiditis": {
+      "old": "E06.3",
+      "new": "E06.3"
+    },
+    "Generalized Anxiety Disorder": {
+      "old": "F41.1",
+      "new": "F41.1"
+    }
+  },
+  "5523": {
+    "Viral Lymphadenitis": {
+      "old": "A68.89",
+      "new": "I88.9"
+    },
+    "Bacterial Lymphadenitis": {
+      "old": "A41.9",
+      "new": "L04.0"
+    },
+    "Benign Neck Cyst": {
+      "old": "D18.0",
+      "new": "D36.0"
+    }
+  },
+  "5522": {
+    "Seborrheic Dermatitis": {
+      "old": "L21",
+      "new": "L21.9"
+    },
+    "Psoriasis": {
+      "old": "L40",
+      "new": "L40.9"
+    },
+    "Chronic Scalp Eczema": {
+      "old": "L21.0",
+      "new": "L21.9"
+    }
+  },
+  "5521": {
+    "Tension-Type Headache": {
+      "old": "G44.2",
+      "new": "G44.2"
+    },
+    "Migraine": {
+      "old": "G43",
+      "new": "G43.9"
+    },
+    "Medication Overuse Headache": {
+      "old": "G44.4",
+      "new": "G44.4"
+    }
+  },
+  "5520": {
+    "Female Sexual Arousal Disorder": {
+      "old": "F52.0",
+      "new": "F52.9"
+    },
+    "Generalized Anxiety Disorder": {
+      "old": "F41.1",
+      "new": "F41.1"
+    }
+  },
+  "5519": {
+    "Gastroesophageal Reflux Disease": {
+      "old": "K21",
+      "new": "K21.9"
+    },
+    "Laryngopharyngeal Reflux": {
+      "old": "K21.9",
+      "new": "K21.9"
+    },
+    "Esophagitis": {
+      "old": "K20",
+      "new": "K20"
+    }
+  },
+  "5518": {
+    "Tension Headache": {
+      "old": "G44.2",
+      "new": "G44.2"
+    },
+    "Chronic Daily Headache": {
+      "old": "G44.3",
+      "new": "G44.8"
+    },
+    "Medication Overuse Headache": {
+      "old": "G44.4",
+      "new": "G44.4"
+    }
+  },
+  "5517": {
+    "Meniscal Tear": {
+      "old": "S83.2",
+      "new": "S83.2"
+    },
+    "Osteoarthritis": {
+      "old": "M15",
+      "new": "M16.9"
+    },
+    "Patellofemoral Pain Syndrome": {
+      "old": "M22.2",
+      "new": "M22.2"
+    }
+  },
+  "5516": {
+    "Meniscal Tear": {
+      "old": "S83.2",
+      "new": "S83.2"
+    },
+    "Patellofemoral Pain Syndrome": {
+      "old": "M22.2",
+      "new": "M22.2"
+    },
+    "Osteoarthritis": {
+      "old": "M15",
+      "new": "M16.9"
+    }
+  },
+  "5513": {
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.9"
+    },
+    "Constipation": {
+      "old": "K59.0",
+      "new": "K59.0"
+    },
+    "Gallbladder Disease": {
+      "old": "K80",
+      "new": "K82.9"
+    }
+  },
+  "5512": {
+    "Urinary Tract Infection": {
+      "old": "N39.0",
+      "new": "N39.0"
+    },
+    "Sexually Transmitted Infection": {
+      "old": "A50",
+      "new": "A64"
+    }
+  },
+  "5511": {
+    "Urinary Tract Infection": {
+      "old": "N39.0",
+      "new": "N39.0"
+    },
+    "Dehydration": {
+      "old": "E86",
+      "new": "/"
+    }
+  },
+  "5510": {
+    "Urinary Tract Infection": {
+      "old": "N39.0",
+      "new": "N39.0"
+    },
+    "Interstitial Cystitis": {
+      "old": "N30.10",
+      "new": "N30.1"
+    }
+  },
+  "5509": {
+    "Cellulitis": {
+      "old": "L03.90",
+      "new": "L03.02"
+    },
+    "Paronychia": {
+      "old": "L03.0",
+      "new": "L98.1"
+    }
+  },
+  "5508": {
+    "Allergic Rhinitis": {
+      "old": "J30",
+      "new": "J30.4"
+    },
+    "Viral Pharyngitis": {
+      "old": "J02.9",
+      "new": "J02.9"
+    },
+    "Laryngitis": {
+      "old": "J04.0",
+      "new": "J04.0"
+    }
+  },
+  "5507": {
+    "Chronic Tonsillitis": {
+      "old": "J35.0",
+      "new": "J35.0"
+    },
+    "Chronic Sialadenitis": {
+      "old": "K11.2",
+      "new": "K11.2"
+    },
+    "Recurrent Pharyngitis": {
+      "old": "J02",
+      "new": "J31.2"
+    }
+  },
+  "5506": {
+    "Premenstrual Syndrome": {
+      "old": "N94.3",
+      "new": "N94.3"
+    }
+  },
+  "5505": {
+    "Lactose Intolerance": {
+      "old": "K86.1",
+      "new": "E73.9"
+    },
+    "Milk Protein Allergy": {
+      "old": "Z91.01",
+      "new": "T78.1"
+    },
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.9"
+    }
+  },
+  "5504": {
+    "Generalized Anxiety Disorder": {
+      "old": "F41.1",
+      "new": "F41.1"
+    },
+    "Adjustment Disorder": {
+      "old": "F43.20",
+      "new": "F43.2"
+    }
+  },
+  "5503": {
+    "Ischial Bursitis": {
+      "old": "M70.6",
+      "new": "M71.55"
+    },
+    "Piriformis Syndrome": {
+      "old": "M54.3",
+      "new": "G83.9"
+    },
+    "Meralgia Paresthetica": {
+      "old": "G57.1",
+      "new": "G57.1"
+    }
+  },
+  "5501": {
+    "Generalized Anxiety Disorder": {
+      "old": "F41.1",
+      "new": "F41.1"
+    },
+    "Hyperthyroidism": {
+      "old": "E05",
+      "new": "E05.2"
+    },
+    "Panic Disorder": {
+      "old": "F41.0",
+      "new": "F41.0"
+    }
+  },
+  "5499": {
+    "Vitreous Detachment": {
+      "old": "H43.1",
+      "new": "H43.9"
+    },
+    "Retinal Detachment": {
+      "old": "H33.0",
+      "new": "H33.0"
+    },
+    "Posterior Uveitis": {
+      "old": "H30.2",
+      "new": "H30.9"
+    }
+  },
+  "5498": {
+    "Delayed Puberty": {
+      "old": "R62.0",
+      "new": "E30.0"
+    },
+    "Klinefelter Syndrome": {
+      "old": "Q98.1",
+      "new": "Q98.0"
+    }
+  },
+  "5497": {
+    "Herniated Disc": {
+      "old": "M51.2",
+      "new": "M51.2"
+    },
+    "Spinal Stenosis": {
+      "old": "M48.0",
+      "new": "M48.07"
+    },
+    "Sciatica": {
+      "old": "M54.3",
+      "new": "M54.3"
+    }
+  },
+  "5496": {
+    "Lumbar Radiculopathy": {
+      "old": "M54.16",
+      "new": "M54.16"
+    },
+    "Muscle Strain": {
+      "old": "S76.0",
+      "new": "M62.68"
+    },
+    "Sciatica": {
+      "old": "M54.3",
+      "new": "M54.3"
+    }
+  },
+  "5495": {
+    "Sinus Infection": {
+      "old": "J01",
+      "new": "J01.9"
+    },
+    "Post-Viral Syndrome": {
+      "old": "G93.3",
+      "new": "G93.3"
+    },
+    "Dry Eye Syndrome": {
+      "old": "H04.12",
+      "new": "H04.9"
+    }
+  },
+  "5494": {
+    "Gastroesophageal Reflux Disease": {
+      "old": "K21",
+      "new": "K21.9"
+    }
+  },
+  "5493": {
+    "Functional Constipation": {
+      "old": "K59.00",
+      "new": "K59.0"
+    },
+    "Dietary Intolerance": {
+      "old": "K94.09",
+      "new": "K90.4"
+    },
+    "Malnutrition": {
+      "old": "E40",
+      "new": "E46"
+    }
+  },
+  "5492": {
+    "Diabetes Mellitus": {
+      "old": "E10",
+      "new": "E14.9"
+    },
+    "Mild Dehydration": {
+      "old": "E86.0",
+      "new": "E87.8"
+    },
+    "Electrolyte Imbalance": {
+      "old": "E87.9",
+      "new": "E87.8"
+    }
+  },
+  "5491": {
+    "Food Allergy": {
+      "old": "T78.0",
+      "new": "T78.1"
+    },
+    "Food Intolerance": {
+      "old": "K90.4",
+      "new": "T78.1"
+    }
+  },
+  "5490": {
+    "Carpal Tunnel Syndrome": {
+      "old": "G56.0",
+      "new": "G56.0"
+    },
+    "Raynaud'S Disease": {
+      "old": "I73.00",
+      "new": "I73.00"
+    },
+    "Cervical Radiculopathy": {
+      "old": "M54.12",
+      "new": "M54.12"
+    }
+  },
+  "5488": {
+    "Belly Button Infection": {
+      "old": "L02.2",
+      "new": "L08.9"
+    },
+    "Urachal Cyst": {
+      "old": "Q63.0",
+      "new": "Q64.41"
+    },
+    "Abdominal Wall Abscess": {
+      "old": "K61.0",
+      "new": "T21.13"
+    }
+  },
+  "5485": {
+    "Tension Headache": {
+      "old": "G44.2",
+      "new": "G44.2"
+    },
+    "Fibromyalgia": {
+      "old": "M79.7",
+      "new": "M79.79"
+    },
+    "Chronic Fatigue Syndrome": {
+      "old": "G93.3",
+      "new": "G93.3"
+    }
+  },
+  "5484": {
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.9"
+    },
+    "Diverticulitis": {
+      "old": "K57.9",
+      "new": "K57.92"
+    },
+    "Gastroenteritis": {
+      "old": "A08",
+      "new": "A09.9"
+    }
+  },
+  "5483": {
+    "Generalized Anxiety Disorder": {
+      "old": "F41.1",
+      "new": "F41.1"
+    },
+    "Cannabis Use Disorder": {
+      "old": "F12.10",
+      "new": "F12.1"
+    },
+    "Chronic Insomnia": {
+      "old": "G47.00",
+      "new": "F51.0"
+    }
+  },
+  "5482": {
+    "Urinary Tract Infection": {
+      "old": "N39.0",
+      "new": "N39.0"
+    },
+    "Chlamydia": {
+      "old": "A56.0",
+      "new": "A56.0"
+    },
+    "Kidney Infection": {
+      "old": "N10",
+      "new": "N15.1"
+    }
+  },
+  "5481": {
+    "Neuralgia Intercostal": {
+      "old": "G57.0",
+      "new": "G58.0"
+    },
+    "Dolor Muscular": {
+      "old": "M79.1",
+      "new": "M62.99"
+    }
+  },
+  "5480": {
+    "Costochondritis": {
+      "old": "M94.0",
+      "new": "M94.0"
+    },
+    "Gastritis Or Peptic Ulcer Disease": {
+      "old": "K29",
+      "new": "K29.70"
+    },
+    "Splenic Conditions": {
+      "old": "D73",
+      "new": "D73.9"
+    }
+  },
+  "5479": {
+    "Digital Eye Strain": {
+      "old": "H53.8",
+      "new": "H53.1"
+    },
+    "Dry Eye Syndrome": {
+      "old": "H04.12",
+      "new": "H04.9"
+    },
+    "Allergic Conjunctivitis": {
+      "old": "H10.1",
+      "new": "H10.1"
+    }
+  },
+  "5478": {
+    "Conjunctivitis": {
+      "old": "H10",
+      "new": "H10.9"
+    },
+    "Keratitis": {
+      "old": "H16",
+      "new": "H16.9"
+    },
+    "Uveitis": {
+      "old": "H30",
+      "new": "H30.9"
+    }
+  },
+  "5477": {
+    "Tension Headaches": {
+      "old": "G44.2",
+      "new": "G44.2"
+    },
+    "Trigeminal Neuralgia": {
+      "old": "G50.0",
+      "new": "G50.0"
+    },
+    "Myofascial Pain Syndrome": {
+      "old": "M79.1",
+      "new": "M79.10"
+    }
+  },
+  "5476": {
+    "Costochondritis": {
+      "old": "M94.0",
+      "new": "M94.0"
+    },
+    "Pleurisy": {
+      "old": "J90",
+      "new": "R09.1"
+    },
+    "Rib Stress Fracture": {
+      "old": "S22.4",
+      "new": "M84.38"
+    }
+  },
+  "5475": {
+    "Gastroesophageal Reflux Disease": {
+      "old": "K21",
+      "new": "K21.9"
+    },
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.9"
+    },
+    "Esophageal Motility Disorders": {
+      "old": "K22.0",
+      "new": "K22.4"
+    }
+  },
+  "5474": {
+    "Pneumonia": {
+      "old": "J18",
+      "new": "J18.9"
+    },
+    "Tuberculosis": {
+      "old": "A15",
+      "new": "A18.8"
+    },
+    "Lung Abscess": {
+      "old": "J85.0",
+      "new": "J85.2"
+    }
+  },
+  "5473": {
+    "Stroke": {
+      "old": "I63",
+      "new": "I64"
+    },
+    "Hemorrhagic Stroke": {
+      "old": "I61",
+      "new": "I61.9"
+    },
+    "Brain Tumor": {
+      "old": "C71",
+      "new": "C71.9"
+    }
+  },
+  "5472": {
+    "Meniscal Tear": {
+      "old": "S83.2",
+      "new": "S83.2"
+    },
+    "Iliotibial Band Syndrome": {
+      "old": "M76.3",
+      "new": "M76.3"
+    },
+    "Pes Anserine Bursitis": {
+      "old": "M70.51",
+      "new": "M70.5"
+    }
+  },
+  "5471": {
+    "Chronic Bronchitis": {
+      "old": "J42",
+      "new": "J42"
+    },
+    "Allergic Rhinitis": {
+      "old": "J30",
+      "new": "J30.4"
+    },
+    "Gastroesophageal Reflux Disease": {
+      "old": "K21",
+      "new": "K21.9"
+    }
+  },
+  "5470": {
+    "Primary Premature Ejaculation": {
+      "old": "F52.3",
+      "new": "F52.4"
+    },
+    "Secondary Premature Ejaculation": {
+      "old": "F52.4",
+      "new": "F52.4"
+    },
+    "Erectile Dysfunction": {
+      "old": "N52",
+      "new": "F52.4"
+    }
+  },
+  "5469": {
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.9"
+    },
+    "Anal Fissure": {
+      "old": "K60.0",
+      "new": "K60.2"
+    }
+  },
+  "5468": {
+    "Migraine": {
+      "old": "G43",
+      "new": "G43.9"
+    },
+    "Tension-Type Headache": {
+      "old": "G44.2",
+      "new": "G44.2"
+    },
+    "Vestibular Migraine": {
+      "old": "G43.8",
+      "new": "G43.8"
+    }
+  },
+  "5467": {
+    "Inguinal Hernia": {
+      "old": "K40",
+      "new": "K40.90"
+    },
+    "Chronic Pelvic Pain Syndrome": {
+      "old": "N94.1",
+      "new": "R10.2"
+    },
+    "Pelvic Floor Dysfunction": {
+      "old": "N94.89",
+      "new": "M62.65"
+    }
+  },
+  "5459": {
+    "Tension-Type Headache": {
+      "old": "G44.2",
+      "new": "G44.2"
+    },
+    "Anxiety-Induced Headache And Chest Pain": {
+      "old": "F41.9",
+      "new": "F41.9"
+    },
+    "Sinusitis": {
+      "old": "J01",
+      "new": "J01.9"
+    }
+  },
+  "5458": {
+    "Urinary Tract Infection": {
+      "old": "N39.0",
+      "new": "N39.0"
+    },
+    "Kidney Infection": {
+      "old": "N10",
+      "new": "N15.1"
+    },
+    "Kidney Stone": {
+      "old": "N20",
+      "new": "N20.0"
+    }
+  },
+  "5456": {
+    "Antiphospholipid Syndrome": {
+      "old": "D68.6",
+      "new": "/"
+    },
+    "Uterine Anomalies": {
+      "old": "Q51",
+      "new": "Q51.9"
+    },
+    "Hereditary Thrombophilia": {
+      "old": "D68.5",
+      "new": "D68.5"
+    }
+  },
+  "5455": {
+    "Cervical Radiculopathy": {
+      "old": "M54.12",
+      "new": "M54.12"
+    },
+    "Cervical Spondylosis": {
+      "old": "M47.9",
+      "new": "M47.22"
+    },
+    "Thoracic Outlet Syndrome": {
+      "old": "G54.0",
+      "new": "G54.3"
+    }
+  },
+  "5454": {
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.0"
+    },
+    "Crohn'S Disease": {
+      "old": "K50",
+      "new": "K50.9"
+    },
+    "Celiac Disease": {
+      "old": "K90.0",
+      "new": "K90.0"
+    }
+  },
+  "5453": {
+    "Aquagenic Pruritus": {
+      "old": "L29.8",
+      "new": "/"
+    },
+    "Chronic Urticaria": {
+      "old": "L50.1",
+      "new": "L50.1"
+    }
+  },
+  "5452": {
+    "Sciatica": {
+      "old": "M54.3",
+      "new": "M54.3"
+    },
+    "Complex Regional Pain Syndrome": {
+      "old": "G90.5",
+      "new": "R52.2"
+    },
+    "Herniated Disc": {
+      "old": "M51.2",
+      "new": "M51.2"
+    }
+  },
+  "5450": {
+    "Chalazion": {
+      "old": "H01.03",
+      "new": "H00.1"
+    },
+    "Blepharitis": {
+      "old": "H01.0",
+      "new": "H01.0"
+    },
+    "Allergic Conjunctivitis": {
+      "old": "H10.1",
+      "new": "H10.1"
+    }
+  },
+  "5449": {
+    "Chalazion": {
+      "old": "H01.03",
+      "new": "H00.1"
+    },
+    "Meibomian Gland Cyst": {
+      "old": "H01.83",
+      "new": "H21.3"
+    },
+    "Conjunctival Inclusion Cyst": {
+      "old": "H00.83",
+      "new": "H11.4"
+    }
+  },
+  "5448": {
+    "Polycystic Ovary Syndrome": {
+      "old": "E28.2",
+      "new": "E28.2"
+    },
+    "Early Pregnancy": {
+      "old": "O00",
+      "new": "O26.9"
+    },
+    "Gastroesophageal Reflux Disease": {
+      "old": "K21",
+      "new": "K21.9"
+    }
+  },
+  "5446": {
+    "Migraine": {
+      "old": "G43",
+      "new": "G43.9"
+    },
+    "Tension Headache": {
+      "old": "G44.2",
+      "new": "G44.2"
+    },
+    "Viral Gastroenteritis": {
+      "old": "A08",
+      "new": "A08.4"
+    }
+  },
+  "5445": {
+    "Bacterial Vaginosis": {
+      "old": "N76.0",
+      "new": "N76.0"
+    },
+    "Yeast Infection": {
+      "old": "B37",
+      "new": "B37.3"
+    },
+    "Chlamydia": {
+      "old": "A56.9",
+      "new": "A56.0"
+    }
+  },
+  "5444": {
+    "Finger Contusion": {
+      "old": "S60.1",
+      "new": "S60.0"
+    },
+    "Finger Sprain": {
+      "old": "S63.4",
+      "new": "S63.60"
+    },
+    "Nerve Compression Injury": {
+      "old": "G56",
+      "new": "S64.9"
+    }
+  },
+  "5443": {
+    "Pre-Ejaculate Fluid Release": {
+      "old": "N48.9",
+      "new": "/"
+    },
+    "Physiological Response To Sexual Arousal": {
+      "old": "F52.9",
+      "new": "F52.9"
+    },
+    "Hormonal Fluctuations": {
+      "old": "N94.6",
+      "new": "R94.7"
+    }
+  },
+  "5441": {
+    "Chronic Fatigue Syndrome": {
+      "old": "G93.3",
+      "new": "G93.3"
+    },
+    "Anxiety Disorder": {
+      "old": "F41",
+      "new": "F41.9"
+    }
+  },
+  "5440": {
+    "Reactivation Tuberculosis": {
+      "old": "A15.0",
+      "new": "A16.1"
+    },
+    "Anemia": {
+      "old": "D50",
+      "new": "D64.9"
+    },
+    "Chronic Fatigue Syndrome": {
+      "old": "G93.3",
+      "new": "R53"
+    }
+  },
+  "5439": {
+    "Anxiety": {
+      "old": "F41",
+      "new": "F41.9"
+    },
+    "Hyperventilation Syndrome": {
+      "old": "R06.4",
+      "new": "R06.4"
+    },
+    "Asthma": {
+      "old": "J45",
+      "new": "J45.9"
+    }
+  },
+  "5438": {
+    "Migraine": {
+      "old": "G43",
+      "new": "G43.9"
+    },
+    "Vestibular Migraine": {
+      "old": "G43.8",
+      "new": "G43.8"
+    },
+    "Tension-Type Headache": {
+      "old": "G44.2",
+      "new": "G44.2"
+    }
+  },
+  "5437": {
+    "Urinary Tract Infection": {
+      "old": "N39.0",
+      "new": "N39.0"
+    },
+    "Interstitial Cystitis": {
+      "old": "N30.10",
+      "new": "N30.1"
+    },
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.9"
+    }
+  },
+  "5436": {
+    "Major Depressive Disorder": {
+      "old": "F33",
+      "new": "F33.1"
+    },
+    "Tinnitus": {
+      "old": "H93.1",
+      "new": "H93.1"
+    },
+    "Chronic Insomnia": {
+      "old": "G47.00",
+      "new": "F51.0"
+    }
+  },
+  "5435": {
+    "Bartholin Gland Cyst": {
+      "old": "N83.1",
+      "new": "N75.0"
+    },
+    "Vaginal Inclusion Cyst": {
+      "old": "N83.9",
+      "new": "N90.7"
+    },
+    "Gartner Duct Cyst": {
+      "old": "N84.1",
+      "new": "N90.7"
+    }
+  },
+  "5434": {
+    "Pelvic Inflammatory Disease": {
+      "old": "N70",
+      "new": "N73.9"
+    },
+    "Bacterial Vaginosis": {
+      "old": "N70.1",
+      "new": "N76.0"
+    }
+  },
+  "5429": {
+    "Chronic Pancreatitis": {
+      "old": "K86.1",
+      "new": "K86.1"
+    },
+    "Celiac Disease": {
+      "old": "K90.0",
+      "new": "K90.0"
+    },
+    "Exocrine Pancreatic Insufficiency": {
+      "old": "K86.9",
+      "new": "K86.8"
+    }
+  },
+  "5428": {
+    "Oral Thrush": {
+      "old": "B37.0",
+      "new": "B37.9"
+    },
+    "Oral Dysbiosis": {
+      "old": "K00.2",
+      "new": "K13.7"
+    }
+  },
+  "5427": {
+    "Oral Thrush": {
+      "old": "B37.0",
+      "new": "B37.9"
+    },
+    "Allergic Contact Stomatitis": {
+      "old": "K12.0",
+      "new": "K12.1"
+    }
+  },
+  "5426": {
+    "Influenza": {
+      "old": "J10",
+      "new": "J11.8"
+    },
+    "Viral Upper Respiratory Tract Infection": {
+      "old": "J06.9",
+      "new": "J06.9"
+    },
+    "Dengue Fever": {
+      "old": "A90",
+      "new": "A97.9"
+    }
+  },
+  "5425": {
+    "Lung Cancer": {
+      "old": "C34",
+      "new": "C34.9"
+    },
+    "Tuberculosis": {
+      "old": "A15",
+      "new": "A18.8"
+    }
+  },
+  "5423": {
+    "Post-Ssri Sexual Dysfunction": {
+      "old": "F32.9",
+      "new": "F52.8"
+    },
+    "Depression": {
+      "old": "F33",
+      "new": "F32.90"
+    }
+  },
+  "5417": {
+    "Contact Dermatitis": {
+      "old": "L23",
+      "new": "L25.9"
+    },
+    "Psoriasis": {
+      "old": "L40",
+      "new": "L40.9"
+    },
+    "Tinea Corporis": {
+      "old": "B35.4",
+      "new": "B35.4"
+    }
+  },
+  "5416": {
+    "Impetigo": {
+      "old": "L01.0",
+      "new": "L01.0"
+    },
+    "Contact Dermatitis With Secondary Infection": {
+      "old": "L23.9",
+      "new": "L25.8"
+    }
+  },
+  "5408": {
+    "Influenza": {
+      "old": "J10",
+      "new": "J11.1"
+    },
+    "Gastroenteritis": {
+      "old": "A08",
+      "new": "A09.9"
+    }
+  },
+  "5405": {
+    "Cervicitis": {
+      "old": "N72",
+      "new": "N73.9"
+    },
+    "Cervical Polyp": {
+      "old": "N84.0",
+      "new": "N84.1"
+    }
+  },
+  "5404": {
+    "Duchenne Muscular Dystrophy": {
+      "old": "G71.0",
+      "new": "G71.0"
+    },
+    "Myocarditis": {
+      "old": "I40",
+      "new": "I51.4"
+    },
+    "Rhabdomyolysis": {
+      "old": "M62.82",
+      "new": "M62.82"
+    }
+  },
+  "5403": {
+    "Lumbar Strain": {
+      "old": "S39.012",
+      "new": "S33.7"
+    },
+    "Herniated Lumbar Disc": {
+      "old": "M51.26",
+      "new": "M51.9"
+    },
+    "Degenerative Disc Disease": {
+      "old": "M51.36",
+      "new": "M51.3"
+    }
+  },
+  "5402": {
+    "Anterior Cruciate Ligament Tear": {
+      "old": "S83.5",
+      "new": "S83.53"
+    },
+    "Meniscus Tear": {
+      "old": "S83.2",
+      "new": "S83.2"
+    },
+    "Patellar Tendinitis": {
+      "old": "M76.6",
+      "new": "M76.5"
+    }
+  },
+  "5400": {
+    "Retinal Artery Occlusion": {
+      "old": "H34.9",
+      "new": "H34.1"
+    },
+    "Age-Related Macular Degeneration": {
+      "old": "H35.3",
+      "new": "H35.9"
+    },
+    "Cataract": {
+      "old": "H25",
+      "new": "H25.9"
+    }
+  },
+  "5399": {
+    "Allergic Rhinitis": {
+      "old": "J30",
+      "new": "/"
+    },
+    "Viral Conjunctivitis": {
+      "old": "H10.1",
+      "new": "B30.9"
+    },
+    "Dry Eye Syndrome": {
+      "old": "H04.12",
+      "new": "H04.9"
+    }
+  },
+  "5398": {
+    "Viral Conjunctivitis": {
+      "old": "H10.1",
+      "new": "B30.9"
+    }
+  },
+  "5396": {
+    "Localized Tissue Injury": {
+      "old": "S00",
+      "new": "T14.8"
+    },
+    "Nerve Injury": {
+      "old": "G56",
+      "new": "T14.4"
+    },
+    "Post-Surgical Inflammation": {
+      "old": "T81.4",
+      "new": "T98.3"
+    }
+  },
+  "5395": {
+    "Major Depressive Disorder": {
+      "old": "F33",
+      "new": "/"
+    },
+    "Generalized Anxiety Disorder": {
+      "old": "F41.1",
+      "new": "F41.1"
+    },
+    "Fibromyalgia": {
+      "old": "M79.7",
+      "new": "/"
+    }
+  },
+  "5394": {
+    "Lymphadenitis": {
+      "old": "I88.0",
+      "new": "L04.0"
+    },
+    "Submental Abscess": {
+      "old": "K61.0",
+      "new": "K11.3"
+    },
+    "Infectious Mononucleosis": {
+      "old": "B27",
+      "new": "B27.9"
+    }
+  },
+  "5393": {
+    "Upper Respiratory Tract Infection": {
+      "old": "J06.9",
+      "new": "J06.9"
+    },
+    "Allergic Rhinitis": {
+      "old": "J30",
+      "new": "/"
+    }
+  },
+  "5391": {
+    "Fungal Infection (Tinea Cruris)": {
+      "old": "B35.6",
+      "new": "B35.6"
+    },
+    "Contact Dermatitis": {
+      "old": "L23",
+      "new": "L25.9"
+    },
+    "Dry Skin (Xerosis)": {
+      "old": "L85.9",
+      "new": "L85.3"
+    }
+  },
+  "5390": {
+    "Laryngitis": {
+      "old": "J04.0",
+      "new": "J04.0"
+    },
+    "Viral Pharyngitis": {
+      "old": "J02.9",
+      "new": "J02.9"
+    },
+    "Gastroesophageal Reflux Disease": {
+      "old": "K21",
+      "new": "K21.9"
+    }
+  },
+  "5388": {
+    "Urinary Tract Infection": {
+      "old": "N39.0",
+      "new": "N39.0"
+    },
+    "Sexually Transmitted Infection": {
+      "old": "A50",
+      "new": "A64"
+    },
+    "Kidney Infection": {
+      "old": "N10",
+      "new": "N15.1"
+    }
+  },
+  "5381": {
+    "Urinary Tract Infection": {
+      "old": "N39.0",
+      "new": "N39.0"
+    },
+    "Sexually Transmitted Infection": {
+      "old": "A50",
+      "new": "A64"
+    }
+  },
+  "5379": {
+    "Gonorrhea": {
+      "old": "A54",
+      "new": "A54.9"
+    },
+    "Genital Herpes": {
+      "old": "A60",
+      "new": "A60.0"
+    },
+    "Folliculitis": {
+      "old": "L73.9",
+      "new": "L66.2"
+    }
+  },
+  "5378": {
+    "Postsurgical Seroma": {
+      "old": "T81.0",
+      "new": "/"
+    },
+    "Localized Needle Trauma": {
+      "old": "T14.8",
+      "new": "T81.2"
+    },
+    "Postsurgical Neuropathy": {
+      "old": "G59.0",
+      "new": "G97.8"
+    }
+  },
+  "5377": {
+    "Seroma Recurrence": {
+      "old": "T81.89",
+      "new": "H59.81"
+    },
+    "Post-Surgical Infection": {
+      "old": "T81.4",
+      "new": "T81.4"
+    },
+    "Post-Surgical Hematoma": {
+      "old": "D67",
+      "new": "T81.0"
+    }
+  },
+  "5375": {
+    "Amoebiasis": {
+      "old": "A06",
+      "new": "A06.9"
+    },
+    "Bacterial Gastroenteritis": {
+      "old": "A04",
+      "new": "A04.9"
+    },
+    "Inflammatory Bowel Disease": {
+      "old": "K50",
+      "new": "K51.9"
+    }
+  },
+  "5374": {
+    "Muscle Strain Or Ligament Sprain In The Back": {
+      "old": "S39.0",
+      "new": "S33.51"
+    },
+    "Herniated Disc": {
+      "old": "M51.2",
+      "new": "M51.2"
+    },
+    "Vertebral Compression Fracture": {
+      "old": "M48.5",
+      "new": "M48.59"
+    }
+  },
+  "5373": {
+    "Seroma Recurrence": {
+      "old": "T81.89",
+      "new": "H59.81"
+    },
+    "Hematoma": {
+      "old": "I62.9",
+      "new": "T81.0"
+    },
+    "Lymphatic Leakage": {
+      "old": "I89.0",
+      "new": "I89.8"
+    }
+  },
+  "5370": {
+    "Costochondritis": {
+      "old": "M94.0",
+      "new": "M94.0"
+    },
+    "Anxiety-Related Chest Pain": {
+      "old": "F41.9",
+      "new": "F41.9"
+    },
+    "Gastroesophageal Reflux Disease": {
+      "old": "K21",
+      "new": "K21.9"
+    }
+  },
+  "5365": {
+    "Gastroesophageal Reflux Disease": {
+      "old": "K21",
+      "new": "K21.9"
+    },
+    "Gastric Ulcer": {
+      "old": "K25",
+      "new": "K25.9"
+    },
+    "Functional Dyspepsia": {
+      "old": "K30",
+      "new": "K30"
+    }
+  },
+  "5363": {
+    "Pharyngitis": {
+      "old": "J02",
+      "new": "J02.9"
+    },
+    "Tonsillitis": {
+      "old": "J03",
+      "new": "J03.9"
+    },
+    "Infectious Mononucleosis": {
+      "old": "B27.1",
+      "new": "B27.9"
+    }
+  },
+  "5362": {
+    "Narcolepsy": {
+      "old": "G47.419",
+      "new": "G47.4"
+    },
+    "Sleep Deprivation": {
+      "old": "G47.0",
+      "new": "T73.8"
+    },
+    "Sleep Apnea": {
+      "old": "G47.3",
+      "new": "G47.30"
+    }
+  },
+  "5360": {
+    "Tension Headache": {
+      "old": "G44.2",
+      "new": "G44.2"
+    },
+    "Migraine": {
+      "old": "G43",
+      "new": "G43.9"
+    },
+    "Occipital Neuralgia": {
+      "old": "G44.809",
+      "new": "M79.29"
+    }
+  },
+  "5357": {
+    "Compulsive Sexual Behavior": {
+      "old": "F63.8",
+      "new": "/"
+    },
+    "Adjustment Disorder": {
+      "old": "F43.20",
+      "new": "F43.2"
+    },
+    "Normal Adolescent Development Issues": {
+      "old": "Z63.8",
+      "new": "F98.9"
+    }
+  },
+  "5356": {
+    "Lactose Intolerance": {
+      "old": "K86.0",
+      "new": "E73.9"
+    },
+    "Celiac Disease": {
+      "old": "K90.0",
+      "new": "K90.0"
+    },
+    "Nonalcoholic Steatohepatitis": {
+      "old": "K75.81",
+      "new": "K76.0"
+    }
+  },
+  "5355": {
+    "Kidney Infection": {
+      "old": "N10",
+      "new": "N39.0"
+    },
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.9"
+    },
+    "Urinary Stone": {
+      "old": "N20",
+      "new": "N20.9"
+    }
+  },
+  "5353": {
+    "Meningitis": {
+      "old": "G00",
+      "new": "G03.9"
+    },
+    "Encephalitis": {
+      "old": "G04.9",
+      "new": "G04.9"
+    },
+    "Brain Abscess": {
+      "old": "G06.0",
+      "new": "G06.0"
+    }
+  },
+  "5352": {
+    "Tension-Type Headache": {
+      "old": "G44.2",
+      "new": "G44.2"
+    },
+    "Migraine": {
+      "old": "G43",
+      "new": "G43.9"
+    },
+    "Sinus Headache": {
+      "old": "R51",
+      "new": "R51"
+    }
+  },
+  "5351": {
+    "Iron Deficiency Anemia": {
+      "old": "D50",
+      "new": "D50.9"
+    },
+    "Reactive Thrombocytosis": {
+      "old": "D75.81",
+      "new": "D47.3"
+    },
+    "Anemia Of Chronic Disease": {
+      "old": "D63.8",
+      "new": "D63"
+    }
+  },
+  "5350": {
+    "Polycythemia Vera": {
+      "old": "D45",
+      "new": "D45"
+    },
+    "Secondary Polycythemia": {
+      "old": "D75.1",
+      "new": "D75.1"
+    }
+  },
+  "5349": {
+    "Viral Exanthem": {
+      "old": "B08.3",
+      "new": "B34.9"
+    },
+    "Pityriasis Rosea": {
+      "old": "L42",
+      "new": "L42"
+    },
+    "Drug Reaction With Eosinophilia And Systemic Symptoms": {
+      "old": "T88.0",
+      "new": "L27.0"
+    }
+  },
+  "5348": {
+    "Acute Sinusitis": {
+      "old": "J01",
+      "new": "J01.9"
+    },
+    "Acute Bronchitis": {
+      "old": "J20",
+      "new": "J20.9"
+    }
+  },
+  "5345": {
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.9"
+    },
+    "Functional Dyspepsia": {
+      "old": "K30",
+      "new": "K30"
+    }
+  },
+  "5341": {
+    "Nasolabial Cyst": {
+      "old": "K09.2",
+      "new": "J34.1"
+    },
+    "Mucocele": {
+      "old": "K11.6",
+      "new": "J34.1"
+    },
+    "Chronic Sinusitis": {
+      "old": "J32",
+      "new": "J32.9"
+    }
+  },
+  "5340": {
+    "Major Depressive Disorder": {
+      "old": "F33",
+      "new": "F33.9"
+    },
+    "Polycystic Ovary Syndrome": {
+      "old": "E28.2",
+      "new": "E28.2"
+    },
+    "Hypothyroidism": {
+      "old": "E03",
+      "new": "E03.9"
+    }
+  },
+  "5339": {
+    "Influenza": {
+      "old": "J10",
+      "new": "J11.8"
+    },
+    "Viral Syndrome": {
+      "old": "B34.9",
+      "new": "B34.9"
+    },
+    "Dengue Fever": {
+      "old": "A90",
+      "new": "A97.9"
+    }
+  },
+  "5338": {
+    "Necrotizing Ulcerative Gingivitis": {
+      "old": "K05.1",
+      "new": "K05.0"
+    },
+    "Localized Aggressive Periodontitis": {
+      "old": "K05.2",
+      "new": "K05.4"
+    }
+  },
+  "5337": {
+    "Herniated Disc": {
+      "old": "M51.2",
+      "new": "M51.9"
+    },
+    "Spinal Cord Injury": {
+      "old": "S14",
+      "new": "T09.3"
+    },
+    "Peripheral Neuropathy": {
+      "old": "G62.9",
+      "new": "G62.9"
+    }
+  },
+  "5336": {
+    "Folliculitis": {
+      "old": "L73.9",
+      "new": "L66.2"
+    },
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.9"
+    },
+    "Hormonal Imbalance": {
+      "old": "E34.9",
+      "new": "E34.9"
+    }
+  },
+  "5335": {
+    "Infectious Mononucleosis": {
+      "old": "B27.1",
+      "new": "B27.9"
+    },
+    "Streptococcal Pharyngitis": {
+      "old": "J02.0",
+      "new": "J02.0"
+    },
+    "Tuberculosis": {
+      "old": "A15",
+      "new": "A18.8"
+    }
+  },
+  "5334": {
+    "Vitiligo": {
+      "old": "L80",
+      "new": "L80"
+    },
+    "Tinea Versicolor": {
+      "old": "B36.0",
+      "new": "B36.0"
+    },
+    "Pityriasis Alba": {
+      "old": "L81.8",
+      "new": "L30.5"
+    }
+  },
+  "5333": {
+    "Sexually Transmitted Infection": {
+      "old": "A50",
+      "new": "A64"
+    },
+    "Fungal Infection": {
+      "old": "B35",
+      "new": "B36.9"
+    },
+    "Contact Dermatitis": {
+      "old": "L23",
+      "new": "L25.9"
+    }
+  },
+  "5331": {
+    "Tendon Or Ligament Movement": {
+      "old": "M66.9",
+      "new": "S66.8"
+    },
+    "Minor Bone Fragment Shifts": {
+      "old": "S52.9",
+      "new": "T14.20"
+    },
+    "Cast Movement Noise": {
+      "old": "M84.4",
+      "new": "/"
+    }
+  },
+  "5330": {
+    "Pulmonary Embolism": {
+      "old": "I26",
+      "new": "I26.9"
+    },
+    "Costochondritis": {
+      "old": "M94.0",
+      "new": "M94.0"
+    },
+    "Spontaneous Pneumothorax": {
+      "old": "J93.0",
+      "new": "J93.1"
+    }
+  },
+  "5329": {
+    "Implanon-Related Menstrual Irregularities": {
+      "old": "N92.6",
+      "new": "T83.89"
+    },
+    "Iron Deficiency Anemia": {
+      "old": "D50",
+      "new": "D50.9"
+    },
+    "Endometrial Hyperplasia": {
+      "old": "N85.0",
+      "new": "N85.0"
+    }
+  },
+  "5326": {
+    "Heart Failure": {
+      "old": "I50",
+      "new": "I50.9"
+    },
+    "Chronic Obstructive Pulmonary Disease": {
+      "old": "J44",
+      "new": "J44.9"
+    },
+    "Anemia": {
+      "old": "D64",
+      "new": "D64.9"
+    }
+  },
+  "5323": {
+    "Major Depressive Disorder": {
+      "old": "F33",
+      "new": "/"
+    },
+    "Generalized Anxiety Disorder": {
+      "old": "F41.1",
+      "new": "F41.1"
+    },
+    "Anorexia Nervosa": {
+      "old": "F50.01",
+      "new": "F50.0"
+    }
+  },
+  "5322": {
+    "Generalized Anxiety Disorder": {
+      "old": "F41.1",
+      "new": "F41.1"
+    },
+    "Circadian Rhythm Sleep-Wake Disorder": {
+      "old": "G47.20",
+      "new": "G47.2"
+    }
+  },
+  "5321": {
+    "Panic Attack": {
+      "old": "F41.0",
+      "new": "F41.0"
+    },
+    "Generalized Anxiety Disorder": {
+      "old": "F41.1",
+      "new": "F41.1"
+    },
+    "Cardiac Arrhythmia": {
+      "old": "I49",
+      "new": "I49.9"
+    }
+  },
+  "5320": {
+    "Kidney Stone": {
+      "old": "N20",
+      "new": "N20.0"
+    }
+  },
+  "5319": {
+    "Urinary Tract Infection": {
+      "old": "N39.0",
+      "new": "N39.0"
+    },
+    "Kidney Stones": {
+      "old": "N20",
+      "new": "Q63.82"
+    }
+  },
+  "5315": {
+    "Digital Eye Strain": {
+      "old": "H53.1",
+      "new": "H53.1"
+    },
+    "Photophobia": {
+      "old": "H53.13",
+      "new": "H53.1"
+    },
+    "Dry Eye Syndrome": {
+      "old": "H04.12",
+      "new": "H04.9"
+    }
+  },
+  "5305": {
+    "Hormonal Acne": {
+      "old": "L70.0",
+      "new": "L70.0"
+    },
+    "Iron Deficiency Anemia": {
+      "old": "D50.9",
+      "new": "D50.9"
+    }
+  },
+  "5304": {
+    "Appendicitis": {
+      "old": "K35",
+      "new": "K35.8"
+    },
+    "Diverticulitis": {
+      "old": "K57.9",
+      "new": "K57.92"
+    },
+    "Cholecystitis": {
+      "old": "K81",
+      "new": "K81.0"
+    }
+  },
+  "5303": {
+    "Drug Allergy": {
+      "old": "T88.0",
+      "new": "L27.0"
+    },
+    "Folliculitis": {
+      "old": "L73.9",
+      "new": "L66.2"
+    },
+    "Antibiotic-Associated Skin Eruption": {
+      "old": "L27.0",
+      "new": "L27.0"
+    }
+  },
+  "5302": {
+    "Chronic Otitis Media": {
+      "old": "H65.4",
+      "new": "H66.3"
+    },
+    "Otitis Externa": {
+      "old": "H60.3",
+      "new": "H60.9"
+    }
+  },
+  "5301": {
+    "Thumb Abscess": {
+      "old": "L02.21",
+      "new": "M65.04"
+    },
+    "Inflamed Ganglion Cyst": {
+      "old": "M67.4",
+      "new": "M67.44"
+    },
+    "Acute Inflammatory Arthritis": {
+      "old": "M05",
+      "new": "M06.44"
+    }
+  },
+  "5298": {
+    "Stomach Ulcer": {
+      "old": "K25",
+      "new": "K25.9"
+    },
+    "Pancreatic Cancer": {
+      "old": "C25",
+      "new": "C25.9"
+    },
+    "Chronic Gastritis": {
+      "old": "K29.5",
+      "new": "K29.50"
+    }
+  },
+  "5297": {
+    "Peptic Ulcer Disease": {
+      "old": "K25",
+      "new": "K27.9"
+    },
+    "Gastritis": {
+      "old": "K29",
+      "new": "K29.70"
+    },
+    "Non-Alcoholic Fatty Liver Disease": {
+      "old": "K76.0",
+      "new": "K76.0"
+    }
+  },
+  "5295": {
+    "Obstructive Sleep Apnea": {
+      "old": "G47.33",
+      "new": "G47.32"
+    },
+    "Gastroesophageal Reflux Disease": {
+      "old": "K21",
+      "new": "K21.9"
+    }
+  },
+  "5294": {
+    "Gastroesophageal Reflux Disease": {
+      "old": "K21",
+      "new": "K21.9"
+    },
+    "Muscle Strain In The Chest Wall": {
+      "old": "S26.0",
+      "new": "S23.4"
+    }
+  },
+  "5293": {
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.0"
+    },
+    "Inflammatory Bowel Disease": {
+      "old": "K50",
+      "new": "K50.9"
+    }
+  },
+  "5292": {
+    "Concussion": {
+      "old": "S06.0",
+      "new": "S06.00"
+    },
+    "Subdural Hematoma": {
+      "old": "S06.5",
+      "new": "S06.5"
+    }
+  },
+  "5291": {
+    "Polycystic Ovary Syndrome": {
+      "old": "E28.1",
+      "new": "E28.2"
+    },
+    "Irritable Bowel Syndrome": {
+      "old": "K58",
+      "new": "K58.9"
+    },
+    "Ovarian Mass Or Tumor": {
+      "old": "N83.2",
+      "new": "D39.1"
+    }
+  },
+  "5290": {
+    "Chronic Obstructive Pulmonary Disease": {
+      "old": "J44",
+      "new": "J44.9"
+    },
+    "Bronchiectasis": {
+      "old": "J47",
+      "new": "J47"
+    },
+    "Chronic Bronchitis": {
+      "old": "J42",
+      "new": "J42"
+    }
+  },
+  "5281": {
+    "Influenza": {
+      "old": "J10",
+      "new": "J11.1"
+    },
+    "Infectious Mononucleosis": {
+      "old": "B27.1",
+      "new": "B27.9"
+    },
+    "Viral Upper Respiratory Infection": {
+      "old": "J06.9",
+      "new": "J06.9"
+    }
+  },
+  "5278": {
+    "Gastritis": {
+      "old": "K29",
+      "new": "K29.70"
+    },
+    "Functional Dyspepsia": {
+      "old": "K30",
+      "new": "K30"
+    },
+    "Peptic Ulcer Disease": {
+      "old": "K25",
+      "new": "K27.9"
+    }
+  },
+  "5273": {
+    "Peripheral Artery Disease": {
+      "old": "I73.9",
+      "new": "I73.9"
+    },
+    "Chronic Kidney Disease": {
+      "old": "N18",
+      "new": "N18.9"
+    },
+    "Anemia": {
+      "old": "D64",
+      "new": "D64.9"
+    }
+  },
+  "5271": {
+    "Methamphetamine-Induced Insomnia": {
+      "old": "F15.9",
+      "new": "F15.01"
+    },
+    "Acute Stress Reaction": {
+      "old": "F43.0",
+      "new": "F43.0"
+    },
+    "Substance-Induced Anxiety Disorder": {
+      "old": "F10",
+      "new": "F41.8"
+    }
+  },
+  "5270": {
+    "Balanitis": {
+      "old": "N48.1",
+      "new": "N48.1"
+    },
+    "Pearly Penile Papules": {
+      "old": "N48.3",
+      "new": "N48.8"
+    },
+    "Folliculitis": {
+      "old": "L73.9",
+      "new": "L66.2"
+    }
+  },
+  "5269": {
+    "Orthostatic Hypotension": {
+      "old": "I95.1",
+      "new": "I95.10"
+    },
+    "Benign Paroxysmal Positional Vertigo": {
+      "old": "H81.1",
+      "new": "H81.1"
+    },
+    "Vestibular Neuritis": {
+      "old": "H81.3",
+      "new": "H81.2"
+    }
+  },
+  "5268": {
+    "Iliotibial Band Syndrome": {
+      "old": "M76.3",
+      "new": "M76.3"
+    },
+    "Lateral Collateral Ligament Injury": {
+      "old": "S83.42",
+      "new": "S83.41"
+    },
+    "Contusion Or Soft Tissue Injury": {
+      "old": "S00.9",
+      "new": "S80.0"
+    }
+  },
+  "5266": {
+    "Depressive Disorder": {
+      "old": "F33",
+      "new": "F32.90"
+    },
+    "Generalized Anxiety Disorder": {
+      "old": "F41.1",
+      "new": "F41.1"
+    },
+    "Chronic Fatigue Syndrome": {
+      "old": "G93.3",
+      "new": "G93.3"
+    }
+  },
+  "5265": {
+    "Chronic Sinusitis": {
+      "old": "J32",
+      "new": "J32.9"
+    },
+    "Nasal Polyposis": {
+      "old": "J33",
+      "new": "J33.9"
+    },
+    "Osteoma Of The Paranasal Sinuses": {
+      "old": "D14.1",
+      "new": "D16.42"
+    }
+  },
+  "5263": {
+    "Sinus Infection": {
+      "old": "J01",
+      "new": "J01.9"
+    },
+    "Trigeminal Neuralgia": {
+      "old": "G50.0",
+      "new": "G50.0"
+    }
+  },
+  "5262": {
+    "Chronic Sinusitis": {
+      "old": "J32",
+      "new": "J32.9"
+    },
+    "Secondary Bacterial Sinus Infection": {
+      "old": "J01.9",
+      "new": "J01.8"
+    }
+  },
+  "5260": {
+    "Sinus Infection With Secondary Osteomyelitis": {
+      "old": "J01.90",
+      "new": "M86.88"
+    },
+    "Benign Bone Tumor": {
+      "old": "D16",
+      "new": "D16.41"
+    },
+    "Osteosarcoma": {
+      "old": "C40",
+      "new": "C41.9"
+    }
+  },
+  "5259": {
+    "Streptococcal Pharyngitis": {
+      "old": "J02.0",
+      "new": "J02.0"
+    },
+    "Covid-19": {
+      "old": "U07.1",
+      "new": "B34.2"
+    }
+  },
+  "5258": {
+    "Food Poisoning": {
+      "old": "T62.0",
+      "new": "A05.9"
+    },
+    "Viral Gastroenteritis": {
+      "old": "A08.0",
+      "new": "A08.4"
+    },
+    "Small Bowel Obstruction": {
+      "old": "K56.5",
+      "new": "K56.6"
+    }
+  },
+  "5257": {
+    "Antisocial Personality Disorder": {
+      "old": "F60.2",
+      "new": "F60.2"
+    },
+    "Narcissistic Personality Disorder": {
+      "old": "F60.81",
+      "new": "/"
+    },
+    "Borderline Personality Disorder": {
+      "old": "F60.3",
+      "new": "F60.31"
+    }
+  },
+  "5256": {
+    "Narcissistic Personality Disorder": {
+      "old": "F60.81",
+      "new": "F60.8"
+    },
+    "Borderline Personality Disorder": {
+      "old": "F60.3",
+      "new": "F60.31"
+    },
+    "Antisocial Personality Disorder": {
+      "old": "F60.2",
+      "new": "F60.2"
+    }
+  },
+  "5255": {
+    "Alcohol Use Disorder": {
+      "old": "F10.20",
+      "new": "F10.2"
+    },
+    "Substance-Induced Anxiety Disorder": {
+      "old": "F10",
+      "new": "F19.0"
+    },
+    "Coagulation Disorder": {
+      "old": "D68",
+      "new": "D68.9"
+    }
+  },
+  "5253": {
+    "Anxiety-Induced Tremors": {
+      "old": "F41.9",
+      "new": "F41.8"
+    },
+    "Substance-Induced Seizure": {
+      "old": "G40.4",
+      "new": "F19.0"
+    }
+  },
+  "5252": {
+    "Folliculitis": {
+      "old": "L73.9",
+      "new": "L66.2"
+    },
+    "Acne": {
+      "old": "L70",
+      "new": "L70.9"
+    },
+    "Molluscum Contagiosum": {
+      "old": "B08.1",
+      "new": "B08.1"
+    }
+  },
+  "5251": {
+    "Postural Orthostatic Tachycardia Syndrome": {
+      "old": "I45.81",
+      "new": "/"
+    },
+    "Peripheral Neuropathy": {
+      "old": "G62.9",
+      "new": "G90.0"
+    },
+    "Orthostatic Hypotension": {
+      "old": "I95.1",
+      "new": "/"
+    }
+  },
+  "5250": {
+    "Meralgia Paresthetica": {
+      "old": "G57.1",
+      "new": "G57.1"
+    },
+    "Peripheral Neuropathy": {
+      "old": "G62.9",
+      "new": "G62.9"
+    },
+    "Lumbar Radiculopathy": {
+      "old": "M54.16",
+      "new": "M54.16"
+    }
+  },
+  "5249": {
+    "Nasal Polyp With Bony Changes": {
+      "old": "J33.9",
+      "new": "/"
+    },
+    "Fibrous Dysplasia": {
+      "old": "M85.8",
+      "new": "M85.09"
+    }
+  },
+  "5247": {
+    "Interstitial Cystitis": {
+      "old": "N30.10",
+      "new": "N30.1"
+    },
+    "Benign Prostatic Hyperplasia": {
+      "old": "N40",
+      "new": "N40"
+    }
+  }
+}

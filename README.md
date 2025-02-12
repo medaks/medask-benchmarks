@@ -12,6 +12,9 @@ The benchmark simulates medical consultations through a structured four-step pro
 For more details about the benchmark, methodology, and results, read our blog post:
 https://medask.tech/blogs/introducing-symptomcheck-bench/
 
+* Results of our ICD-10 evaluation are also found in the results folder. For more information refer to:
+https://medask.tech/blogs/how-medasks-cognitive-architecture-improves-icd-10-coding-accuracy/
+
 ### Installation
 
 ```
